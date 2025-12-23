@@ -1,5 +1,10 @@
 {
   "urls": [
+    
+    {
+      "name":"張群大佬",
+      "url":"https://zhangqun1818.serv00.net/zq/api.json"
+    },
     {
       "name":"pg大佬",
       "url":"https://www.252035.xyz/p/jsm.json"
