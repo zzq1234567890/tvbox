@@ -3,27 +3,6 @@
     "sites": [    
  
 		
-        {
-            "key": "py奇优动漫",
-            "name": "py奇优动漫",
-            "type": 4,
-            "api": "./py/奇优动漫.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-            
-        },
-
-        {
-            "key": "py金牌",
-            "name": "py金牌",
-            "type": 4,
-            "api": "./py/金牌.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-            
-        },
 	  
     {
       "key": "py_OleVod",
