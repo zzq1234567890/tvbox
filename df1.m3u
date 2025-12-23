@@ -97,6 +97,8 @@ http://127.0.0.1:8081/dongsenfinince.php
 #EXTINF:-1   tvg-id="東森財經股市"   tvg-name="東森財經股市"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png"    group-title="中文新聞",東森財經股市
 http://127.0.0.1:8081/dongsenstock.php
 
+#EXTINF:-1   tvg-id="東森綜合2台"   tvg-name="東森綜合2台"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png"    group-title="中文新聞",東森綜合2台
+http://127.0.0.1:8081/dongsen2.php
 
 #EXTINF:-1   tvg-id="華視新聞資訊臺"   tvg-name="華視新聞資訊臺"    tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png"    group-title="中文新聞",華視新聞資訊臺
 http://127.0.0.1:8081/huashinews.php
