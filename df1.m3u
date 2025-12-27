@@ -6,7 +6,23 @@
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
 
+#EXTINF:-1 tvg-id="皇家马德里电视台" tvg-logo=" https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real Madrid TV.png " group-title="中文新聞",皇家马德里电视台🇪🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lC0X9oGS6jTW8R73Td0ywQ","kid":"lPKVtGJ6o0kYEFkWZKF4qw"}],"type":"temporary"}
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/RealmadridTV_HD_B/__op/dash-wv/__f/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo=" https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf Channel.png " group-title="中文新聞",Surf Channel TV 🇪🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCZHxLq8Cpdf6x5wng5Z+w","kid":"KI7uMYt2aHC5ojreN6i9NA"}],"type":"temporary"}
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/Surfchannel_HD/__op/dash-wv/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="HIT TV" tvg-logo=" https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT TV.png " group-title="中文新聞",Hit TV 🇪🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x47za/mTotLGZBk8i2DS8A","kid":"of0fPHHDJWddFcFdG4MH3g"}],"type":"temporary"}
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/HIT_TV_HD_B/__op/dash-wv/__f/manifest.mpd
 
 #EXTINF:-1   tvg-id="鳳凰資訊"   tvg-name="鳳凰資訊"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新聞",鳳凰資訊
 http://127.0.0.1:8081/fenghuangyoutube.php
