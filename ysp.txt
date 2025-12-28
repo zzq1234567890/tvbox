@@ -20,9 +20,10 @@ CCTV16(4K),https://py.doube.eu.org/ysp/2027249301/600099502
 CCTV17,https://py.doube.eu.org/ysp/2027249401/600001810 
 CCTV4K,https://py.doube.eu.org/ysp/2027249501/600002264 
 CCTV8K,https://py.doube.eu.org/ysp/2026774101/600156816 
-第一剧场,https://py.doube.eu.org/ysp/2026774101/600099655
-怀旧剧场,https://py.doube.eu.org/ysp/2026774101/600099655
-风云剧场,https://py.doube.eu.org/ysp/2026774101  600099655
+第一剧场,https://py.doube.eu.org/ysp/2026874203/600099655
+怀旧剧场,https://py.doube.eu.org/ysp/2026874303/600099655
+风云剧场,https://py.doube.eu.org/ysp/202025637103/600099655
+
 
 CGTN,https://py.doube.eu.org/ysp/2024181701/600014550 
 CGTN法语,https://py.doube.eu.org/ysp/2024181801/600084704 
