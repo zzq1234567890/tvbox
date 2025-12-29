@@ -81,26 +81,7 @@
       ]
     },
 	  
-    {
-      "key": "py_OleVod",
-      "name": "🍉欧乐影院(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=OleVod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "py_Dm84",
-      "name": "🍋动漫巴士(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=Dm84",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
+    
 		{
       "key": "py_dbo",
       "name": "独播库py",
@@ -110,15 +91,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "黑木耳",
-      "name": "黑木耳",
-      "type": 1,
-      "api": "https://heimuer.ggff.net/api.php/tvbox",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
        {
             "key": "量子",
             "name": "量子",
@@ -276,6 +249,36 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1
+},
+{
+      "key": "py_OleVod",
+      "name": "🍉欧乐影院(T4)作廢",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=OleVod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+},
+{
+      "key": "黑木耳作廢",
+      "name": "黑木耳",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+},
+ 
+{
+      "key": "py_Dm84",
+      "name": "🍋动漫巴士(T4)作廢",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=Dm84",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
 },
 {
 	"key":"糯米",
