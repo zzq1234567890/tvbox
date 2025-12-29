@@ -119,6 +119,9 @@ http://127.0.0.1:8081/daai.php?id=2
 http://127.0.0.1:8081/daai.php?id=3
 #EXTINF:-1   tvg-id="大愛電視臺"   tvg-name="大愛電視臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png"    group-title="中文新聞",大愛-1臺灣
 http://127.0.0.1:8081/daai.php?id=4
+#EXTINF:-1   tvg-id="非凡商業臺"   tvg-name="非凡商業臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png"    group-title="中文新聞",非凡商業臺
+http://127.0.0.1:8081/feifanfinance.php
+
 #EXTINF:-1   tvg-id="運通財經綜合臺"   tvg-name="運通財經綜合臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png"    group-title="中文新聞",運通財經綜合臺
 http://127.0.0.1:8081/yuntongfinance.php
 #EXTINF:-1   tvg-id="全球財經網頻道"    tvg-name="全球財經網頻道"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SBN.png"       group-title="中文新聞",全球財經網頻道
@@ -159,7 +162,8 @@ http://127.0.0.1:8081/cgtnrussia.php
 
 #EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="youtube world news",CCTV NEWS歐洲
 http://127.0.0.1:8081/cctvfrench.php
-
+#EXTINF:-1      tvg-logo="" tvg-id="cgtn"   tvg-name="cgtn"    group-title="youtube world news",cgtn
+http://127.0.0.1:8081/cgtn.php
 #EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="youtube world news",CCTV NEWS歐洲
 http://127.0.0.1:8081/cgtnweb.php?id=cgtn
 #EXTINF:-1      tvg-logo="" tvg-id="cgtn英文記錄片"   tvg-name="cgtn英文記錄片"    group-title="youtube world news",cgtn英文記錄片
