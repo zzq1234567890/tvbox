@@ -14,6 +14,9 @@ http://127.0.0.1:8081/cctv4.php?id=1
 http://127.0.0.1:8081/douyin.php?id=208823316033
 #EXTINF:-1   tvg-id="cctv6"   tvg-name="cctv6"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"    group-title="中文新聞",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=129460641471
+#EXTINF:-1   tvg-id="cctv13"   tvg-name="cctv13"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"    group-title="中文新聞",CCTV-13
+http://127.0.0.1:8081/cctv13.php
+
 #EXTINF:-1   tvg-id="第一財經"   tvg-name="第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新聞",第一財經
 http://127.0.0.1:8081/diyicaijing.php
 #EXTINF:-1   tvg-id="第一財經"   tvg-name="第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新聞",第一財經
