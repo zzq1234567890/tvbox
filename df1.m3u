@@ -1900,6 +1900,22 @@ https://globallive.tdm.com.mo/cgtn/cgtn74/playlist.m3u8
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1   tvg-id="好消息2臺"   tvg-name="好消息2臺"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png"    group-title="港澳臺",好消息2臺
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 group-title="hami免费",HBLTV1臺(免費)
+http://127.0.0.1:8081/hami.php?id=2062
+#EXTINF:-1 group-title="hami免费",HBLTV2臺(免費)
+http://127.0.0.1:8081/hami.php?id=2063
+#EXTINF:-1 group-title="hami免费",Hami體育3臺(免費)
+http://127.0.0.1:8081/hami.php?id=1816
+#EXTINF:-1 group-title="hami免费",ROCKExtreme(免費)
+http://127.0.0.1:8081/hami.php?id=2061
+#EXTINF:-1 group-title="hami免费",八大綜藝臺(免費)
+http://127.0.0.1:8081/hami.php?id=2080
+#EXTINF:-1 group-title="hami免费",NHK新聞資訊臺
+http://127.0.0.1:8081/hami.php?id=1974
+#EXTINF:-1 group-title="hami免费",民視第一臺(免費)
+http://127.0.0.1:8081/hami.php?id=2088
+#EXTINF:-1 group-title="hami免费",華視新聞資訊臺(免費)
+http://127.0.0.1:8081/hami.php?id=2081
 
 
 #EXTINF:-1 tvg-id="民視第一臺" tvg-name="民視第一臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="4gtv",民視第一臺
