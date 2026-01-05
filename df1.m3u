@@ -264,6 +264,8 @@ http://127.0.0.1:8081/globalnews.php
 
 http://127.0.0.1:8081/fox11youtube.php
 
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",carchaseyoutube
+http://127.0.0.1:8081/carchaseyoutube.php
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",NewsNOW from FOX
 http://127.0.0.1:8081/foxnewsnow.php?id=1
