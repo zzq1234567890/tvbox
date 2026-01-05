@@ -260,6 +260,9 @@ http://127.0.0.1:8081/fashiontv.php
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",globalnews
 http://127.0.0.1:8081/globalnews.php
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",FOX 11 youtube 
+
+http://127.0.0.1:8081/fox11youtube.php
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",NewsNOW from FOX
