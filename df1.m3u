@@ -2961,7 +2961,7 @@ http://127.0.0.1:8081/huanlekan1.php?id=6809d7279cad3e681005cb5d
 http://127.0.0.1:8081/kbs.php?id=11
 #EXTINF:-1   tvg-id="KBS 2"   tvg-name=""    tvg-logo=""    group-title="韓國",KBS 2
 http://127.0.0.1:8081/kbs.php?id=12
-#EXTINF:-1   tvg-id="KBS WORLD"   tvg-name=""    tvg-logo=""    group-title="韓國",KBS WORLD
+#EXTINF:-1   tvg-id="KBS World"   tvg-name="KBS World"    tvg-logo=""    group-title="韓國",KBS WORLD
 http://127.0.0.1:8081/kbs.php?id=14
 #EXTINF:-1   tvg-id="KBS NEWS"   tvg-name=""    tvg-logo=""    group-title="韓國",KBS NEWS
 http://127.0.0.1:8081/kbs.php?id=81
