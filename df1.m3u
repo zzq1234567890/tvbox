@@ -3319,22 +3319,7 @@ http://127.0.0.1:8081/beijingapp.php?id=bjkk
 #浙江/7個頻道
 #EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="地方",浙江衛視4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="地方",浙江衛視
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1   tvg-id="浙江錢江都市"   tvg-name="浙江錢江都市"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png"    group-title="地方",浙江錢江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1   tvg-id="浙江經濟"   tvg-name="浙江經濟"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png"    group-title="地方",浙江經濟
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1   tvg-id="浙江科教"   tvg-name="浙江科教"     tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png"    group-title="地方",浙江科教
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1   tvg-id="浙江民生"   tvg-name="浙江民生"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png"    group-title="地方",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1   tvg-id="浙江新聞"   tvg-name="浙江新聞"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang5.png"    group-title="地方",浙江新聞
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1   tvg-id="浙江少兒"   tvg-name="浙江少兒"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png"    group-title="地方",浙江少兒
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1   tvg-id="浙江國際"   tvg-name="浙江國際"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png"    group-title="地方",浙江國際
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
 
 #EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="地方",浙江衛視
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -3378,7 +3363,22 @@ http://127.0.0.1:8081/zhejiang.php?id=zjgj
 #EXTINF:-1   tvg-id="浙江數碼時代""   tvg-name="浙江數碼時代"    tvg-logo=""    group-title="地方",浙江之江記錄
 http://127.0.0.1:8081/zhejiang.php?id=zjzjjl
 
-
+#EXTINF:-1   tvg-id="浙江衛視"   tvg-name="浙江衛視"    tvg-logo=""    group-title="地方",浙江衛視
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1   tvg-id="浙江錢江都市"   tvg-name="浙江錢江都市"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png"    group-title="地方",浙江錢江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1   tvg-id="浙江經濟"   tvg-name="浙江經濟"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png"    group-title="地方",浙江經濟
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1   tvg-id="浙江科教"   tvg-name="浙江科教"     tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png"    group-title="地方",浙江科教
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1   tvg-id="浙江民生"   tvg-name="浙江民生"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png"    group-title="地方",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1   tvg-id="浙江新聞"   tvg-name="浙江新聞"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang5.png"    group-title="地方",浙江新聞
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1   tvg-id="浙江少兒"   tvg-name="浙江少兒"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png"    group-title="地方",浙江少兒
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1   tvg-id="浙江國際"   tvg-name="浙江國際"    tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png"    group-title="地方",浙江國際
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
 
 
