@@ -983,6 +983,56 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper", TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="翡翠臺(國際版)" tvg-name="翡翠臺(國際版)" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",翡翠臺(國際版)
+https://lb1-live-mv.v2h-cdn.com/hls/fece/tvbjade/tvbjade.m3u8
+#EXTINF:-1 tvg-id="TVB功夫臺 " tvg-name="TVB功夫臺" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",TVB功夫臺
+https://lb1-live-mv.v2h-cdn.com/hls/ffde/asianaction/asianaction.m3u8
+#EXTINF:-1 tvg-id="娛樂新聞" tvg-name="娛樂新聞" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",娛樂新聞
+https://lb1-live-mv.v2h-cdn.com/hls/fede/entertainmentnews/entertainmentnews.m3u8
+#EXTINF:-1 tvg-id="無線新聞(國際版)" tvg-name="無線新聞(國際版)" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper",無線新聞(國際版)
+https://lb1-live-mv.v2h-cdn.com/hls/fdca/tvbnews/tvbnews.m3u8
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://assets.mytvsuper.com/channel/1679473718355177_CWIN.png" group-title="mytvsuper", TVB星河
+https://lb1-live-mv.v2h-cdn.com/hls/fddb/xinghe/xinghe.m3u8
+#EXTINF:-1   group-title="mytvsuper",TVB Live Shows
+https://lb1-live-mv.v2h-cdn.com/hls/fecb/tvbliveshow/tvbliveshow.m3u8
+
+#EXTINF:-1   group-title="mytvsuper",CCTV Entertainment
+https://lb1-live-mv.v2h-cdn.com/hls/feee/cctvent/cctvent.m3u8
+#EXTINF:-1   group-title="mytvsuper",CCTV4
+https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
+
+#EXTINF:-1   group-title="mytvsuper",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+#EXTINF:-1   group-title="mytvsuper",ZTV International
+https://lb1-live-mv.v2h-cdn.com/hls/fdce/ztv/ztv.m3u8
+#EXTINF:-1   group-title="mytvsuper",JSBC International
+https://lb1-live-mv.v2h-cdn.com/hls/fecc/jsbc/jsbc.m3u8
+#EXTINF:-1   group-title="mytvsuper",BTV International
+https://lb1-live-mv.v2h-cdn.com/hls/ffdd/btv/btv.m3u8
+#EXTINF:-1   group-title="mytvsuper",Fujian Straits TV
+https://lb1-live-mv.v2h-cdn.com/hls/fedc/fjtv/fjtv.m3u8
+#EXTINF:-1   group-title="mytvsuper",Guangxi TV International
+https://lb1-live-mv.v2h-cdn.com/hls/feda/guangxitv/guangxitv.m3u8
+#EXTINF:-1   group-title="mytvsuper",Sichuan TV International Channel
+https://lb1-live-mv.v2h-cdn.com/hls/fdde/sichuantv/sichuantv.m3u8
+#EXTINF:-1   group-title="mytvsuper",TSTV
+https://lb1-live-mv.v2h-cdn.com/hls/fdcb/tstv/tstv.m3u8
+#EXTINF:-1   group-title="mytvsuper",MVMall Trend
+https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8
+#EXTINF:-1   group-title="mytvsuper",MVMall Heathly
+https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8
+#EXTINF:-1   group-title="mytvsuper",MVLAO
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+#EXTINF:-1   group-title="mytvsuper",MVM
+https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+#EXTINF:-1   group-title="mytvsuper",MVMall Plus
+https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
+#EXTINF:-1   group-title="mytvsuper",MVMall DD
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+#EXTINF:-1   group-title="mytvsuper",MVTV ท้องถิ่นไทย
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+#EXTINF:-1   group-title="mytvsuper",MVMall Plus
+https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
