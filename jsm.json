@@ -80,7 +80,15 @@
         "海外动漫"
       ]
     },
-	  
+	  {
+      "key": "wv_ysp",
+      "name": "wv | 央视频",
+	  "jar": "./ysp.jar", 
+	  "timeout":30,
+      "api": "csp_WvSpider",
+      "type": "3",
+      "ext": "./js/央视频.js"
+    },
     
 		{
       "key": "py_dbo",
