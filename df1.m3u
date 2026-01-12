@@ -729,6 +729,11 @@ http://127.0.0.1:8081/france24arabic.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",CNBC Awaaz Live 
 http://127.0.0.1:8081/cnbcarabic.php
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e155b282f33335ae8d553f169f443c:c3fdcfd5d509f1ed8550d76a525e34e5
+#EXTINF:-1 tvg-logo="" group-title="telus测试",坦桑尼亚的KIX
+https://intlive.azamtvltd.co.tz/live/eds/KIXMovies/DASH/KIXMovies.mpd?hdntl=exp=1768309233~acl=%2f*~data=hdntl~hmac=1d9e20f2bb6c7197118592158293a6ab510ddeeff9d2ae2da547829ed005290b
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
