@@ -184,7 +184,7 @@
 		  "name":"👽玩偶哥哥┃4K弹幕",
 		  "type":3,
 		  "api":"csp_WoGGGuard",
-		  "jar": "https://coss.yupoo.com/upchat/2025-09-27/1758984174322.jpg;md5;cba66f046cc8da91e888605c155828a3", 
+		  "jar": "https://oss4liview.moji.com/thd_file/2026/01/12/0a7fcca25f35b87c5659a4c83c6fd152.jpg",
 		  "timeout":30,
 		  "searchable":1,
 		  "quickSearch":1,
@@ -196,12 +196,30 @@
 			  "danMu":"弹"
 		  }
 	  },
+		{"key":"玩偶",
+			"name":"👽玩偶哥哥┃4K弹幕",
+			"type":3,
+			"api":"csp_WoGGGuard",
+			"jar": "https://coss.yupoo.com/upchat/2025-09-27/1758984174322.jpg;md5;cba66f046cc8da91e888605c155828a3", 
+		
+			"timeout":30,
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":0,
+			"ext": {
+				"Cloud-drive":"tvfan/Cloud-drive.txt",
+				"from":"4k|auto"
+			}
+		},
+
+		
       {
 	   "key":"YGP",
 	    "name":"🚀叨观荐影┃预告片",
 		"type":3,
 		  "api":"csp_YGPGuard",
-		"jar": "https://coss.yupoo.com/upchat/2025-09-27/1758984174322.jpg;md5;cba66f046cc8da91e888605c155828a3", 
+		"jar": "https://oss4liview.moji.com/thd_file/2026/01/12/0a7fcca25f35b87c5659a4c83c6fd152.jpg",
+		  "timeout":30,
 		  "searchable":0,
 		  "quickSearch":0,
 		  "changeable":0
@@ -211,8 +229,9 @@
 	"name":"📽️一直播┃直播",
 	"type":3,
 	"api":"csp_AllliveGuard",
-	"jar": "https://coss.yupoo.com/upchat/2025-09-27/1758984174322.jpg;md5;cba66f046cc8da91e888605c155828a3", 
-	"playerType":2,
+	"jar": "https://oss4liview.moji.com/thd_file/2026/01/12/0a7fcca25f35b87c5659a4c83c6fd152.jpg",
+		  "timeout":30,
+		  "searchable":0,
 	"searchable":0,
 	"quickSearch":0,
 	"changeable":0
@@ -222,7 +241,9 @@
 	"name":"💡聚剧剧┃三盘",
 	"type":3,
 	"api":"csp_SeedhubGuard",
-	"jar": "https://coss.yupoo.com/upchat/2025-09-27/1758984174322.jpg;md5;cba66f046cc8da91e888605c155828a3", 
+	"jar": "https://oss4liview.moji.com/thd_file/2026/01/12/0a7fcca25f35b87c5659a4c83c6fd152.jpg",
+    "timeout":30,
+   "searchable":0,
 	"changeable":0,
 	"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
 	"searchable":1,
