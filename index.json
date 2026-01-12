@@ -1,6 +1,9 @@
 {
   "urls": [
-    
+   {
+     "name":"飯太硬",
+    "url":"http://www.饭太硬.com/tv"
+   },
     {
       "name":"張群大佬",
       "url":"https://zhangqun1818.serv00.net/zq/api.json"
