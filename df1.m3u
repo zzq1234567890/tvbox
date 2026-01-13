@@ -62,7 +62,7 @@ http://127.0.0.1:8081/huanyunews.php?id=2
 http://127.0.0.1:8081/huanyunews.php?id=1
 #EXTINF:-1   tvg-id="寰宇新聞臺"   tvg-name="寰宇新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png"    group-title="中文新聞",寰宇新聞臺
 http://127.0.0.1:8081/huanyunews.php?id=3
-#EXTINF:-1   tvg-id=""寰宇財經臺"   tvg-name="寰宇財經臺"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="中文新聞",寰宇財經臺
+#EXTINF:-1   tvg-id="寰宇財經臺"   tvg-name="寰宇財經臺"    tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="中文新聞",寰宇財經臺
 http://127.0.0.1:8081/huanyufince.php
 #EXTINF:-1   tvg-id="東森新聞臺"   tvg-name="東森新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="中文新聞",東森新聞臺
 http://127.0.0.1:8081/dongsennews2.php?id=1
@@ -952,7 +952,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
-#EXTINF:-1  tvg-id="dubai one"tvg-name="dubai one"  group-title="mytvsuper",dubai one
+#EXTINF:-1  tvg-id="dubai one" tvg-name="dubai one"  group-title="mytvsuper",dubai one
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
