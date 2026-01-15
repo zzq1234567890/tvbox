@@ -2316,23 +2316,22 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv061
 #EXTINF:-1   tvg-id="靖天映畫"   tvg-name="靖天映畫"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv055_pc.png"    group-title="litv",靖天映畫
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv055
 
-#EXTINF:-1 tvg-id="博斯高球一臺" tvg-name="博斯高球一臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn05_pc.png" group-title="litv",博斯高球一臺
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn05
-#EXTINF:-1   tvg-id="博斯高球二臺"   tvg-name="博斯高球二臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn06_pc.png"    group-title="litv",博斯高球二臺
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn06
-#EXTINF:-1   tvg-id="博斯運動一臺"   tvg-name="博斯運動一臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn07_pc.png"    group-title="litv",博斯運動一臺
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn07
-#EXTINF:-1   tvg-id="博斯無限臺"   tvg-name="博斯無限臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn10_pc.png"    group-title="litv",博斯無限臺
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn10
-#EXTINF:-1   tvg-id="博斯網球臺"   tvg-name="博斯網球臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn09_pc.png"    group-title="litv",博斯網球臺
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn09
-#EXTINF:-1   tvg-id="博斯運動二臺"   tvg-name="博斯運動二臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_pc.png"    group-title="litv",博斯運動二臺
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn08
-#EXTINF:-1   tvg-id="博斯魅力網"   tvg-name="博斯魅力網"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn04_pc.png"    group-title="litv",博斯魅力網
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn04
-#EXTINF:-1   tvg-id="博斯無限二臺"   tvg-name="博斯無限二臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn13_pc.png"    group-title="litv",博斯無限二臺
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn13
-
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn05_pc.png" group-title="litv",博斯高球台
+http://127.0.0.1:8081/litvpp.php?id=litv-xinchuang05
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn06_pc.png" group-title="litv",博斯高球二台
+http://127.0.0.1:8081/litvpp.php?id=litv-xinchuang06
+#EXTINF:-1 tvg-id="" tvg-name="博斯運動一台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn07_pc.png" group-title="litv",博斯運動一台
+http://127.0.0.1:8081/litvpp.php?id=litv-xinchuang07
+#EXTINF:-1 tvg-id="" tvg-name="博斯無限台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn10_pc.png" group-title="litv",博斯無限台
+http://127.0.0.1:8081/litvpp.php?id=litv-xinchuang10
+#EXTINF:-1 tvg-id="" tvg-name="博斯網球台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn09_pc.png" group-title="litv",博斯網球台
+http://127.0.0.1:8081/litvpp.php?id=litv-xinchuang09
+#EXTINF:-1 tvg-id="" tvg-name="博斯運動二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_pc.png" group-title="litv",博斯運動二台
+http://127.0.0.1:8081/litvpp.php?id=litv-xinchuang08
+#EXTINF:-1 tvg-id="" tvg-name="博斯魅力台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn04_pc.png" group-title="litv",博斯魅力台
+http://127.0.0.1:8081/litvpp.php?id=litv-xinchuang04
+#EXTINF:-1 tvg-id="" tvg-name="博斯無限二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn13_pc.png" group-title="litv",博斯無限二台
+http://127.0.0.1:8081/litvpp.php?id=litv-xinchuang13
 #EXTINF:-1   tvg-id="非凡商業臺"   tvg-name="非凡商業臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv048_pc.png"    group-title="litv",非凡商業臺
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv048
 #EXTINF:-1   tvg-id="臺視財經臺"   tvg-name="臺視財經臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv056_pc.png"    group-title="litv",臺視財經臺
