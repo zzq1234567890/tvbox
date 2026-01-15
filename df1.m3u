@@ -885,6 +885,29 @@ http://127.0.0.1:8081/shanghai1.php?id=dfws4k
 #EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視4K
 https://bp-live4ktc.bestv.cn/ch/dfws4k1080p-video.m3u8?aliyunols=on
 
+
+
+#EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視16M2160HEVC，ac3,5.1声道，音视频分离
+http://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
+#EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視16M2160HEVC，ac3,5.1声道，音视频分离
+http://bp-live4ktc.bestv.cn/live/dfws4k_4k265p.m3u8
+
+#EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視16M2160HEVC，ac3,5.1声道
+http://bp-live4ktc.bestv.cn/264ts/dfws4k264.m3u8
+#EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",16M2160HEVC，ac3,5.1声道，音视频分离
+http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264.m3u8
+
+#EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視8M2160，aac,5.1声道
+http://bp-live4ktc.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
+
+#EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視8M1080，aac,5.1声道
+http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
+
+#EXTINF:-1   tvg-id="東方衛視"   tvg-name="東方衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="4K",東方衛視16M1080HEVC，aac,5.1声道，音视频分离
+http://bp-live4ktc.bestv.cn/ch/dfws4k1080p.m3u8
+
+
+
 #EXTINF:-1   tvg-id="北京衛視"   tvg-name="北京衛視"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"    group-title="4K",北京衛視4k
 http://127.0.0.1:8081/btimeapp.php?id=bjwsuhd
 #EXTINF:-1   tvg-id="深圳衛視"   tvg-name="深圳衛視"    tvg-logo=""    group-title="4K",深圳衛視4k
