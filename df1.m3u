@@ -2504,7 +2504,7 @@ http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang01
 #EXTINF:-1 tvg-id="亞洲旅遊臺" tvg-name="亞洲旅遊臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="ofiii",亞洲旅遊臺
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv076
 #EXTINF:-1 tvg-id="Smart知識臺" tvg-name="Smart知識臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="ofiii",Smart知識臺
-http://127.0.0.1:8081/ofiii.php?id=litv-longturn19
+http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang19
 #EXTINF:-1 tvg-id="龍華戲劇臺" tvg-name="龍華戲劇臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="ofiii",龍華戲劇臺
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang18
 #EXTINF:-1 tvg-id="臺灣戲劇臺" tvg-name="臺灣戲劇臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="ofiii",臺灣戲劇臺
