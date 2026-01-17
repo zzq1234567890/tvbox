@@ -2541,9 +2541,9 @@ http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv104
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2臺" tvg-name="國會頻道2臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_tv.png" group-title="ofiii",國會頻道2臺
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv085
-#EXTINF:-1 tvg-id="龍華經典臺" tvg-name="龍華經典臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="ofiii",龍華經典臺
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="ofiii",龍華經典HD
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang21
-#EXTINF:-1 tvg-id="龍華電影臺" tvg-name="龍華電影臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="ofiii",龍華電影臺
+#EXTINF:-1 tvg-id="龍華電影HD" tvg-name="龍華電影HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="ofiii",龍華電影HD
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang03
 #EXTINF:-1 tvg-id="龍華洋片臺" tvg-name="龍華洋片臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_tv.png" group-title="ofiii",龍華洋片臺
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang02
