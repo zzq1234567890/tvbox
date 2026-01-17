@@ -2397,7 +2397,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv158
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv006
 
 #EXTINF:-1   tvg-id="臺灣戲劇HD"   tvg-name="臺灣戲劇HD"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_pc.png"    group-title="litv",臺灣戲劇臺
-http://127.0.0.1:8081/litvapp.php?id=litv-longturn22
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang22
 #EXTINF:-1   tvg-id="視納華仁紀實頻道"   tvg-name="視納華仁紀實頻道"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv013_pc.png"    group-title="litv",視納華仁紀實頻道
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv013
 
