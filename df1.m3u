@@ -2120,7 +2120,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv153
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="4gtv",中視新聞
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="中天新聞臺" tvg-name="中天新聞臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="4gtv",中天新聞臺
-http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv009
+http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="4gtv",Bloomberg TV
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live059
 #EXTINF:-1 tvg-id="寰宇新聞臺" tvg-name="寰宇新聞臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="4gtv",寰宇新聞臺
