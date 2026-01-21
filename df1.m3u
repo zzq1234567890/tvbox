@@ -30,39 +30,6 @@ http://127.0.0.1:8081/diyicaijinglive.php?id=1
 http://127.0.0.1:8081/diyicaijinglive.php?id=2
 #EXTINF:-1   tvg-id="中臺灣生活網頻道"   tvg-name="中臺灣生活網頻道"    tvg-logo=""    group-title="中文新聞",中臺灣生活網頻道
 http://127.0.0.1:8081/linetv.php?id=2
-
-#EXTM3U url-tvg="http://zzqwe.giize.com:12228/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="4K",湖南卫视4K
-
-
-#EXTINF:-1   tvg-id="鳳凰美洲臺"   tvg-name="鳳凰美洲臺"    tvg-logo=""    group-title="中文新聞",鳳凰美洲臺
-https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1   tvg-id="CCTV-4美洲頻道"   tvg-name="CCTV-4美洲頻道"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新聞",CCTV-4美洲頻道
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
-
-
-#EXTINF:-1   tvg-id="第一財經"   tvg-name="第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新聞",第一財經
-http://127.0.0.1:8081/diyicaijing.php
-#EXTINF:-1   tvg-id="第一財經"   tvg-name="第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新聞",第一財經
-http://127.0.0.1:8081/diyicaijing1.php
-#EXTINF:-1   tvg-id="看看新聞直播"   tvg-name="看看新聞直播"    tvg-logo=""    group-title="中文新聞",看看新聞直播
-http://127.0.0.1:8081/kankanlive.php?id=1
-#EXTINF:-1   tvg-id="看看新聞直播"   tvg-name="看看新聞直播"    tvg-logo=""    group-title="中文新聞",看看新聞直播
-http://127.0.0.1:8081/kankanlive.php?id=2
-#EXTINF:-1   tvg-id="看看新聞直播"   tvg-name="看看新聞直播"    tvg-logo=""    group-title="中文新聞",看看新聞直播
-http://127.0.0.1:8081/kankanlive.php?id=3
-#EXTINF:-1   tvg-id="看看新聞直播"   tvg-name="看看新聞直播"    tvg-logo=""    group-title="中文新聞",看看新聞直播回看
-http://127.0.0.1:8081/kankanriview.php?id=1
-#EXTINF:-1   tvg-id="看看新聞直播"   tvg-name="看看新聞直播"    tvg-logo=""    group-title="中文新聞",看看新聞直播回看
-http://127.0.0.1:8081/kankanriview.php?id=2
-#EXTINF:-1   tvg-id="第一財經直播"   tvg-name="第一財經直播"    tvg-logo=""    group-title="中文新聞",第一財經直播
-http://127.0.0.1:8081/diyicaijinglive.php?id=1
-#EXTINF:-1   tvg-id="第一財經直播"   tvg-name="第一財經直播"    tvg-logo=""    group-title="中文新聞",第一財經直播
-http://127.0.0.1:8081/diyicaijinglive.php?id=2
-#EXTINF:-1   tvg-id="中臺灣生活網頻道"   tvg-name="中臺灣生活網頻道"    tvg-logo=""    group-title="中文新聞",中臺灣生活網頻道
-http://127.0.0.1:8081/linetv.php?id=2
-
 #EXTINF:-1   tvg-id="公視兒少臺HD"   tvg-name="公視兒少臺HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="中文新聞",小公視
 http://127.0.0.1:8081/gongshi15.php
 #EXTINF:-1   tvg-id="公視兒少臺HD"   tvg-name="公視兒少臺HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"    group-title="中文新聞",小公視
