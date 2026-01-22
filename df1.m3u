@@ -450,10 +450,9 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=["f6fba318f78b575eb872e922e3f5c22c:c7e851b141359350d05b4eb2f175312d","d2725153a80e5ad4a2ac1ae03aa6b9e8:860acbeeb729f98875528a8d8f4a3917","6f23d3479bf05fea9f24112ab3093680:98e1284117218a916dedbd5c178d479a","5e123f280bf15fceb39af1089fff5617:7275118b48469075f8873f3fd584a1d7"]
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="4K",love nature 4KFashion TV UHD
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="4K",Fashion TV UHD
 https://lineartv-cdn.t-mobile.pl/bpk-tv/fashiontv4k/default/index.mpd
-$license-type=clearkey$license-key=
-["f6fba318f78b575eb872e922e3f5c22c:c7e851b141359350d05b4eb2f175312d","d2725153a80e5ad4a2ac1ae03aa6b9e8:860acbeeb729f98875528a8d8f4a3917","6f23d3479bf05fea9f24112ab3093680:98e1284117218a916dedbd5c178d479a","5e123f280bf15fceb39af1089fff5617:7275118b48469075f8873f3fd584a1d7"]
+$license-type=clearkey$license-key=["f6fba318f78b575eb872e922e3f5c22c:c7e851b141359350d05b4eb2f175312d","d2725153a80e5ad4a2ac1ae03aa6b9e8:860acbeeb729f98875528a8d8f4a3917","6f23d3479bf05fea9f24112ab3093680:98e1284117218a916dedbd5c178d479a","5e123f280bf15fceb39af1089fff5617:7275118b48469075f8873f3fd584a1d7"]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
