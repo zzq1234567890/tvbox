@@ -265,10 +265,9 @@ http://127.0.0.1:8081/cctv13.php
 http://127.0.0.1:8081/zhongshinews.php
 #EXTINF:-1   tvg-id="中天新聞臺"   tvg-name="中天新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"    group-title="youtube中文新聞",中天新聞臺
 http://127.0.0.1:8081/zhongtiannews.php
+
 #EXTINF:-1   tvg-id="中天新聞臺"   tvg-name="中天新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"    group-title="youtube中文新聞",中天新聞2
-http://127.0.0.1:8081/zhongtiannews2.php
-#EXTINF:-1   tvg-id="中天新聞臺"   tvg-name="中天新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"    group-title="youtube中文新聞",中天新聞2
-http://127.0.0.1:8081/youtube.php?v=-Bk_tdwVDPQ
+http://127.0.0.1:8081/youtube.php?v=vr3XyVCR4T0
 #EXTINF:-1   tvg-id="4gtv-4gtv073"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"    tvg-name="TVBS"    group-title="youtube中文新聞",TVBS+
 http://127.0.0.1:8081/tvbs561.php
 #EXTINF:-1   tvg-id="臺視新聞臺"   tvg-name="臺視新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視新聞.png"    group-title="youtube中文新聞",臺視新聞臺
