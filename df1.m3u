@@ -662,8 +662,7 @@ http://127.0.0.1:8081/kbspop.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",K-POP
 http://127.0.0.1:8081/kpop1.php
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",K-POP2
-http://127.0.0.1:8081/kpop2.php
+
 
 
 
@@ -713,15 +712,6 @@ http://127.0.0.1:8081/africanews.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",ntv
 http://127.0.0.1:8081/ntv.php
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",tv9
-http://127.0.0.1:8081/tv9.php
-
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",印度NBC18 NEWS
-http://127.0.0.1:8081/cnbc18.php
-
-
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",印度NDTV 24x7 LIVE TV 
-http://127.0.0.1:8081/ndtv.php
 
 
 #EXTINF:-1   tvg-id="7183"   tvg-name="aljazeera"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png"    group-title="youtube world news",半島新聞阿拉伯語Al Jazeera Arabic
