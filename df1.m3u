@@ -487,8 +487,7 @@ http://127.0.0.1:8081/carchaseyoutube.php
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",firsttv
 http://127.0.0.1:8081/firsttv.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",firsttvyoutube
-http://127.0.0.1:8081/firsttv1.php
+
 
 
 
@@ -512,8 +511,6 @@ http://127.0.0.1:8081/youtube.php?v=vOTiJkg1voo
 http://127.0.0.1:8081/cnbcyoutube.php
 
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國NBC
-http://127.0.0.1:8081/nbcnews1.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國NBCyoutube
 http://127.0.0.1:8081/nbcnews.php
 
@@ -635,7 +632,7 @@ http://127.0.0.1:8081/africanewsfrance.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",Channels Television
 http://127.0.0.1:8081/Television.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",United Nations - LIVE
-http://127.0.0.1:8081/youtube.php?v=Ka4BElF4_3w
+http://127.0.0.1:8081/youtube.php?v=vYRfQo6JMxc
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",United Nations - LIVE
 http://127.0.0.1:8081/un.php
