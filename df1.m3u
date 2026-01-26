@@ -403,8 +403,7 @@ http://127.0.0.1:8081/cctvfrench.php
 http://127.0.0.1:8081/cgtn.php
 #EXTINF:-1   tvg-id="TaiwanPlus"   tvg-name="TaiwanPlus"    tvg-logo=""    group-title="youtube world news",taiwanplus
 http://127.0.0.1:8081/taiwanplus1.php
-#EXTINF:-1   tvg-id="TaiwanPlus"   tvg-name="TaiwanPlus"    tvg-logo=""    group-title="youtube world news",taiwanplus
-http://127.0.0.1:8081/taiwanplus.php
+
 #EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞"  tvg-logo=""    group-title="youtube world news",倪珍24小時英文新聞
 http://127.0.0.1:8081/nizhen24.php?id=2
 
@@ -433,8 +432,7 @@ http://127.0.0.1:8081/wion.php
 http://127.0.0.1:8081/cnn18.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",cnbc18
 http://127.0.0.1:8081/cnbc18.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",cnbc18 stock
-http://127.0.0.1:8081/cnbc181.php
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",NDTVProfitIndia
 http://127.0.0.1:8081/NDTVProfitIndia.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",ntd news
