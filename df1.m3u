@@ -398,7 +398,7 @@ http://127.0.0.1:8081/shanghaieye1.php
 http://127.0.0.1:8081/cgtnrussia.php
 
 #EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="youtube world news",CCTV NEWS法語
-http://127.0.0.1:8081/cctvfrance.php
+http://127.0.0.1:8081/cgtnfrance.php
 #EXTINF:-1      tvg-logo="" tvg-id="cgtn"   tvg-name="cgtn"    group-title="youtube world news",cgtn
 http://127.0.0.1:8081/cgtn.php
 #EXTINF:-1   tvg-id="TaiwanPlus"   tvg-name="TaiwanPlus"    tvg-logo=""    group-title="youtube world news",taiwanplus
