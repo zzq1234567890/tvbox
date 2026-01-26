@@ -397,11 +397,12 @@ http://127.0.0.1:8081/shanghaieye1.php
 #EXTINF:-1      tvg-logo="" tvg-id=""cgtn俄語"   tvg-name=""cgtn俄語"    group-title="youtube world news",cgtn俄語
 http://127.0.0.1:8081/cgtnrussia.php
 
-#EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="youtube world news",CCTV NEWS歐洲
+#EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="youtube world news",CCTV NEWS法語
 http://127.0.0.1:8081/cctvfrench.php
 #EXTINF:-1      tvg-logo="" tvg-id="cgtn"   tvg-name="cgtn"    group-title="youtube world news",cgtn
 http://127.0.0.1:8081/cgtn.php
-
+#EXTINF:-1   tvg-id="TaiwanPlus"   tvg-name="TaiwanPlus"    tvg-logo=""    group-title="youtube world news",taiwanplus
+http://127.0.0.1:8081/taiwanplus1.php
 #EXTINF:-1   tvg-id="TaiwanPlus"   tvg-name="TaiwanPlus"    tvg-logo=""    group-title="youtube world news",taiwanplus
 http://127.0.0.1:8081/taiwanplus.php
 #EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞"  tvg-logo=""    group-title="youtube world news",倪珍24小時英文新聞
