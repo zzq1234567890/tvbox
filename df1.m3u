@@ -586,6 +586,8 @@ http://127.0.0.1:8081/youtube.php?v=XWq5kBlakcQ
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",土耳其國際英語臺TRTWORLD
 http://127.0.0.1:8081/trtenglish.php
 
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",presstv
+https://live.presstv.ir/hls/presstv.m3u8
 
 
 #EXTINF:-1   tvg-id="100461"   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RT新聞
