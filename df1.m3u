@@ -464,12 +464,10 @@ http://127.0.0.1:8081/euronewsItaliano.php
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1   tvg-id=""    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"   tvg-name="NHKWorld"     group-title="youtube world news",日本nhk world news
 http://127.0.0.1:8081/nhk.php
-#EXTINF:-1   tvg-id="Sky News香港"   tvg-name="Sky News香港"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"    group-title="youtube world news",Sky News youtube
-http://127.0.0.1:8081/skynewsweb.php
+
 #EXTINF:-1   tvg-id="Sky News香港"   tvg-name="Sky News香港"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"    group-title="youtube world news",Sky News youtube
 http://127.0.0.1:8081/skynews.php
-#EXTINF:-1   tvg-id="Sky News香港"   tvg-name="Sky News香港"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"    group-title="youtube world news",Sky News
-http://127.0.0.1:8081/skynewsweblive.php
+
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_160_115"    group-title="youtube world news",World Fashion Channel (1080
@@ -492,17 +490,16 @@ http://127.0.0.1:8081/firsttv.php
 
 
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國CBN Newsy outube
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國CBN News youtube
 http://127.0.0.1:8081/cbnnewsyb.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國CBN Newsy weblive
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國CBN News yweblive
 http://127.0.0.1:8081/cbsnewsweblive.php
  
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國abc news now youtube
 http://127.0.0.1:8081/abcnewsnow.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",美國abc news
 http://127.0.0.1:8081/abcnewsgo.php
-#EXTINF:-1   tvg-id="ABC Australia香港"   tvg-name="ABC Australia香港"    tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png"    group-title="youtube world news",美國ABC NEWS
-http://127.0.0.1:8081/abcnews.php
+
 
 
 #EXTINF:-1   tvg-id="100496"   tvg-name=""    tvg-logo=""    group-title="youtube world news",澳大利亞ABC News Channel for the latest highlights and events
@@ -548,8 +545,7 @@ http://127.0.0.1:8081/gbnews.php
 http://127.0.0.1:8081/aljazeeraenglish.php
 
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png"    group-title="youtube world news",半島電視俄文臺Al Jazeera russia
-http://127.0.0.1:8081/alazeeraBalkans.php
+
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png"    group-title="youtube world news",半島電視阿拉伯文臺Al Jazeera africa
@@ -568,8 +564,7 @@ http://127.0.0.1:8081/dwspain.php
 
 #EXTINF:-1   tvg-id="4gtv-4gtv071"   tvg-name="DW"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png"    group-title="youtube world news",德國DW西班牙臺
 http://127.0.0.1:8081/DWEspañol.php
-#EXTINF:-1   tvg-id="4gtv-4gtv071"   tvg-name="DW"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png"    group-title="youtube world news",德國DW德語臺DW Deutsch 
-http://127.0.0.1:8081/DWDeutsch.php
+
 
 #EXTINF:-1   tvg-id="France 24"   tvg-name="France 24"    tvg-logo=""    group-title="youtube world news",法國24小時英語
 http://127.0.0.1:8081/france24eng.php
@@ -592,30 +587,10 @@ http://127.0.0.1:8081/youtube.php?v=XWq5kBlakcQ
 http://127.0.0.1:8081/trtenglish.php
 
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯HTB電影臺
-http://127.0.0.1:8081/russiantv.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯第一電視臺
-http://127.0.0.1:8081/first.php?id=1
-#EXTINF:-1   tvg-id="100461"   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯紅星電視臺
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1   tvg-id="100461"   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯紅星電視臺
-http://127.0.0.1:8081/redstar.php
+
 #EXTINF:-1   tvg-id="100461"   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RT新聞
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1   tvg-id="100461"   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RT新聞
-http://127.0.0.1:8081/rtworld.php
-#EXTINF:-1   tvg-id="100461"   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RT新聞
-http://127.0.0.1:8081/rtnews.php
-#EXTINF:-1   tvg-id="100461"   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RT美國
-http://127.0.0.1:8081/rtusa.php
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RT英國
-http://127.0.0.1:8081/rtuk.php
-
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RT en español
-http://127.0.0.1:8081/rtspain.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RTfrance
-http://127.0.0.1:8081/rtfrance.php
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",俄羅斯RTdocument
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -656,8 +631,7 @@ http://127.0.0.1:8081/kbsworldweb.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",kbsworld
 http://127.0.0.1:8081/kbsworld.php
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",KBS-POP
-http://127.0.0.1:8081/kbspop.php
+
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",K-POP
 http://127.0.0.1:8081/kpop1.php
@@ -679,20 +653,14 @@ http://127.0.0.1:8081/ytndtmb.php
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",ytn news
 http://127.0.0.1:8081/ytnnews.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",ytn2
-http://127.0.0.1:8081/ytn2.php
+
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",ytn
 http://127.0.0.1:8081/ytnkorean1.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",韓國YonhapnewsTV
-http://127.0.0.1:8081/youtube.php?v=0GN8t2u3flc
 
 
 
-#EXTINF:-1   tvg-id="Euronews"   tvg-name=""    tvg-logo=""    group-title="youtube world news",日本NHKworld
-http://127.0.0.1:8081/nhkworld.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",日本中文臺NHKCHINA
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",日本24小時JAPAN24
 http://127.0.0.1:8081/youtube.php?v=coYw-eVU0Ks
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="youtube world news",日本KBC NEWS LIVE 24
