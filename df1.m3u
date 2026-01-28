@@ -1998,7 +1998,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv001
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv002
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="4gtv",大愛電視
 http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-live007
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="4gtv",中視
+#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="4gtv",中視
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv040
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="4gtv",華視
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv041
