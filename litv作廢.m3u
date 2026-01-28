@@ -1,0 +1,208 @@
+#EXTINF:-1   tvg-id="民視第一臺"   tvg-name="民視第一臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_pc.png"    group-title="litv",民視第一臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv003
+#EXTINF:-1   tvg-id="民視臺灣臺"   tvg-name="民視臺灣臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv001_pc.png"    group-title="litv",民視臺灣臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv001
+#EXTINF:-1   tvg-id="民視"   tvg-name="民視"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_pc.png"    group-title="litv",民視
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv002
+
+#EXTINF:-1   tvg-id="臺視"   tvg-name="臺視"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png"    group-title="litv",臺視
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv066
+
+#EXTINF:-1   tvg-id="中視"   tvg-name="中視"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_pc.png"    group-title="litv",中視
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv040
+
+#EXTINF:-1   tvg-id="華視"   tvg-name="華視"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_pc.png"    group-title="litv",華視
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv041
+#EXTINF:-1   tvg-id="公視戲劇"   tvg-name="公視戲劇"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv042_pc.png"    group-title="litv",公視戲劇
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv042
+
+#EXTINF:-1   tvg-id="好消息"   tvg-name="好消息"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_pc.png"    group-title="litv",好消息
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv16
+
+
+#EXTINF:-1   tvg-id="民視綜藝臺"   tvg-name="民視綜藝臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv004_pc.png"    group-title="litv",民視綜藝臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv004
+
+
+#EXTINF:-1   tvg-id="亞洲旅遊臺"   tvg-name="亞洲旅遊臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png"    group-title="litv",亞洲旅遊臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv076
+
+#EXTINF:-1   tvg-id="中天亞洲臺"   tvg-name="中天亞洲臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv109_pc.png"    group-title="litv",中天亞洲臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv109
+
+#EXTINF:-1   tvg-id="龍華戲劇"   tvg-name="龍華戲劇"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_pc.png"    group-title="litv",龍華戲劇
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang18
+#EXTINF:-1   tvg-id="TVBS精采臺"   tvg-name="TVBS精采臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv067_pc-1.png"    group-title="litv",TVBS精采臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv067
+
+
+
+#EXTINF:-1   tvg-id="TVBS歡樂臺"   tvg-name="TVBS歡樂臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv068_pc.png"    group-title="litv",TVBS歡樂臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv068
+#EXTINF:-1   tvg-id="東森購物1臺"   tvg-name="東森購物1臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_pc.png"    group-title="litv",東森購物1臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv102
+#EXTINF:-1   tvg-id="民視影劇臺"   tvg-name="民視影劇臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv09_pc.png"    group-title="litv",民視影劇臺
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv09
+#EXTINF:-1 tvg-id="龍華偶像臺OTT" tvg-name="龍華偶像臺OTT"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png"  group-title="litv",龍華偶像臺OTT
+
+#EXTINF:-1   tvg-id="龍華日韓臺"   tvg-name="龍華日韓臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_pc.png"    group-title="litv",龍華日韓臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang11
+
+#EXTINF:-1   tvg-id="東森購物2臺"   tvg-name="東森購物2臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_pc.png"    group-title="litv",東森購物2臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv103
+
+#EXTINF:-1   tvg-id="東森新聞臺"   tvg-name="東森新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv152_pc.png"    group-title="litv",東森新聞臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv152
+#EXTINF:-1   tvg-id="華視新聞資訊臺"   tvg-name="華視新聞資訊臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png"    group-title="litv",華視新聞資訊臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv052
+#EXTINF:-1   tvg-id="民視新聞臺"   tvg-name="民視新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv13_pc.png"    group-title="litv",民視新聞臺
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv13
+#EXTINF:-1   tvg-id="三立iNEWS"   tvg-name="三立iNEWS"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_pc.png"    group-title="litv",三立iNEWS
+http://127.0.0.1:8081/litvapp.php?id=iNEWS
+#EXTINF:-1   tvg-id="TVBS新聞臺"   tvg-name="TVBS新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv072_pc.png"    group-title="litv",TVBS新聞臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv072
+#EXTINF:-1   tvg-id="TVBS"   tvg-name="TVBS"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv073_pc.png"    group-title="litv",TVBS
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv073
+#EXTINF:-1   tvg-id="東森財經新聞臺"   tvg-name="東森財經新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv153_pc.png"    group-title="litv",東森財經新聞臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv153
+#EXTINF:-1   tvg-id="非凡新聞臺"   tvg-name="非凡新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv010_pc.png"    group-title="litv",非凡新聞臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv010
+#EXTINF:-1   tvg-id="臺視新聞臺"   tvg-name="臺視新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_pc.png"    group-title="litv",臺視新聞臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv051
+#EXTINF:-1   tvg-id="中視新聞臺"   tvg-name="中視新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_pc.png"    group-title="litv",中視新聞臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv074
+#EXTINF:-1   tvg-id="中天新聞臺"   tvg-name="中天新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_pc.png"    group-title="litv",中天新聞臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv009
+#EXTINF:-1   tvg-id="寰宇新聞臺灣臺"   tvg-name="寰宇新聞臺灣臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_pc.png"    group-title="litv",寰宇新聞臺灣臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv156
+#EXTINF:-1   tvg-id="寰宇新聞臺"   tvg-name="寰宇新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_pc.png"    group-title="litv",寰宇新聞臺
+http://127.0.0.1:8081/litvapp.php?id=litv-longturn14
+#EXTINF:-1   tvg-id="龍華經典HD"   tvg-name="龍華經典HD"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png"    group-title="litv",龍華經典
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang21
+
+#EXTINF:-1   tvg-id="影迷數位電影臺"   tvg-name="影迷數位電影臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv011_pc.png"    group-title="litv",影迷數位電影臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv011
+#EXTINF:-1   tvg-id="亞洲旅遊臺"   tvg-name="亞洲旅遊臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png"    group-title="litv",亞洲旅遊臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="litv",My Cinema Europe HD 我的歐洲電影
+
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv10
+#EXTINF:-1   tvg-id="龍華電影"   tvg-name="龍華電影"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png"    group-title="litv",龍華電影
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang03
+#EXTINF:-1   tvg-id="靖天電影臺"   tvg-name="靖天電影臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv061_pc.png"    group-title="litv",靖天電影臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv061
+#EXTINF:-1   tvg-id="靖天映畫"   tvg-name="靖天映畫"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv055_pc.png"    group-title="litv",靖天映畫
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv055
+
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球一臺有線" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn05_pc.png" group-title="litv",博斯高球一臺有線
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang05
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球二臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn06_pc.png" group-title="litv",博斯高球二臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang06
+#EXTINF:-1 tvg-id="" tvg-name="博斯運動一臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn07_pc.png" group-title="litv",博斯運動一臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang07
+#EXTINF:-1 tvg-id="" tvg-name="博斯無限臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn10_pc.png" group-title="litv",博斯無限臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang10
+#EXTINF:-1 tvg-id="博斯網球檯有線" tvg-name="博斯網球檯有線" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn09_pc.png" group-title="litv",博斯網球檯有線
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang09
+#EXTINF:-1 tvg-id="" tvg-name="博斯運動二臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_pc.png" group-title="litv",博斯運動二臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang08
+#EXTINF:-1 tvg-id="博斯魅力網有線" tvg-name="博斯魅力網有線" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn04_pc.png" group-title="litv",博斯魅力網有線
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang04
+#EXTINF:-1 tvg-id="" tvg-name="博斯無限二臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn13_pc.png" group-title="litv",博斯無限二臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang13
+#EXTINF:-1   tvg-id="非凡商業臺"   tvg-name="非凡商業臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv048_pc.png"    group-title="litv",非凡商業臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv048
+#EXTINF:-1   tvg-id="臺視財經臺"   tvg-name="臺視財經臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv056_pc.png"    group-title="litv",臺視財經臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv056
+#EXTINF:-1   tvg-id="寰宇財經臺"   tvg-name="寰宇財經臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_pc.png"    group-title="litv",寰宇財經臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv158
+
+
+#EXTINF:-1   tvg-id="豬哥亮歌廳秀"   tvg-name="豬哥亮歌廳秀"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv006_pc.png"    group-title="litv",豬哥亮歌廳秀
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv006
+
+#EXTINF:-1   tvg-id="臺灣戲劇HD"   tvg-name="臺灣戲劇HD"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_pc.png"    group-title="litv",臺灣戲劇臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang22
+#EXTINF:-1   tvg-id="視納華仁紀實頻道"   tvg-name="視納華仁紀實頻道"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv013_pc.png"    group-title="litv",視納華仁紀實頻道
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv013
+
+#EXTINF:-1   tvg-id="八大精彩臺"   tvg-name="八大精彩臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv034_pc.png"    group-title="litv",八大精彩臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv034
+#EXTINF:-1   tvg-id="採昌影劇臺HD"   tvg-name="採昌影劇臺HD"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv049_pc.png"    group-title="litv",采昌影劇臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv049
+#EXTINF:-1   tvg-id="靖天戲劇臺"   tvg-name="靖天戲劇臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv058_pc.png"    group-title="litv",靖天戲劇臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv058
+#EXTINF:-1   tvg-id="靖天日本臺"   tvg-name="靖天日本臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv047_pc.png"    group-title="litv",靖天日本臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv047
+#EXTINF:-1   tvg-id="靖天育樂臺"   tvg-name="靖天育樂臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv062_pc.png"    group-title="litv",靖天育樂臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv062
+#EXTINF:-1   tvg-id="KLT-靖天國際臺"   tvg-name="KLT-靖天國際臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv063_pc.png"    group-title="litv",KLT-靖天國際臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv063
+#EXTINF:-1   tvg-id="靖洋戲劇臺"   tvg-name="靖洋戲劇臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv045_pc.png"    group-title="litv",靖洋戲劇臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv045
+#EXTINF:-1   tvg-id="靖天綜合臺"   tvg-name="靖天綜合臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv046_pc.png"    group-title="litv",靖天綜合臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv046
+#EXTINF:-1   tvg-id="靖天歡樂臺"   tvg-name="靖天歡樂臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv054_pc.png"    group-title="litv",靖天歡樂臺
+
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv054
+#EXTINF:-1   tvg-id="靖天資訊臺"   tvg-name="靖天資訊臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_4gtv-4gtv065_pc.png"    group-title="litv",靖天資訊臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv065
+#EXTINF:-1   tvg-id="民視旅遊臺"   tvg-name="民視旅遊臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv07_pc.png"    group-title="litv",民視旅遊臺
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv07
+#EXTINF:-1   tvg-id="SSmart 知識HD"   tvg-name="Smart 知識HD"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_pc.png"    group-title="litv",Smart 知識HD
+http://127.0.0.1:8081/litvapp.php?id=litv-longturn19
+#EXTINF:-1   tvg-id="愛爾達娛樂臺"   tvg-name="愛爾達娛樂臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv070_pc.png"    group-title="litv",愛爾達娛樂臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv070
+#EXTINF:-1   tvg-id="中視菁採臺HD"   tvg-name="中視菁採臺HD"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv064_pc.png"    group-title="litv",中視菁采臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv064
+#EXTINF:-1   tvg-id="中視經典臺"   tvg-name="中視經典臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv080_pc.png"    group-title="litv",中視經典臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv080
+#EXTINF:-1   tvg-id="八大綜藝臺"   tvg-name="八大綜藝臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv039_mobile.png"    group-title="litv",八大綜藝臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv039
+#EXTINF:-1   tvg-id="年代MUCH綜藝臺"   tvg-name="年代MUCH綜藝臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel35_pc_20201019.png"    group-title="litv",年代MUCH綜藝臺
+http://127.0.0.1:8081/litvapp.php?id=litv-vchannel161
+#EXTINF:-1   tvg-id="客家電視臺"   tvg-name="客家電視臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv043_pc.png"    group-title="litv",客家電視臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv043
+
+#EXTINF:-1   tvg-id="半島國際新聞臺"   tvg-name="半島國際新聞臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv10_pc.png"    group-title="litv",半島國際新聞臺
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv10
+#EXTINF:-1   tvg-id="VOA美國之音"   tvg-name="VOA美國之音"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv03_pc.png"    group-title="litv",VOA美國之音
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv03
+#EXTINF:-1   tvg-id="第1商業臺"   tvg-name="第1商業臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png"    group-title="litv",第1商業臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv104
+#EXTINF:-1   tvg-id="國會頻道1臺"   tvg-name="國會頻道1臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_pc.png"    group-title="litv",國會頻道1臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv084
+#EXTINF:-1   tvg-id="國會頻道2臺"   tvg-name="國會頻道2臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_pc.png"    group-title="litv",國會頻道2臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv085
+
+#EXTINF:-1   tvg-id="TRACESportStars"   tvg-name="TRACESportStars"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv077_pc.png"    group-title="litv",TRACESportStars
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv077
+#EXTINF:-1   tvg-id="智林體育臺"   tvg-name="智林體育臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_4gtv-4gtv101_pc.png"    group-title="litv",智林體育臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv101
+#EXTINF:-1   tvg-id="時尚運動X"   tvg-name="時尚運動X"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv014_pc.png"    group-title="litv",時尚運動X
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv014
+#EXTINF:-1   tvg-id="GINX Esports TV"   tvg-name="GINX Esports TV"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv053_pc.png"    group-title="litv",GINX Esports TV
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv053
+#EXTINF:-1   tvg-id="韓國娛樂臺KMTV HD"   tvg-name="韓國娛樂臺KMTV HD"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv016_pc.png"    group-title="litv",韓國娛樂臺KMTV HD
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv016
+#EXTINF:-1   tvg-id="TRACE Urban"   tvg-name="TRACE Urban"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv082_pc.png"    group-title="litv",TRACE Urban
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv082
+#EXTINF:-1   tvg-id="Mezzo Live HD"   tvg-name="Mezzo Live HD"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv083_pc.png"    group-title="litv",Mezzo Live HD
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv083
+#EXTINF:-1   tvg-id="CLASSICA 古典樂"   tvg-name="CLASSICA 古典樂"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv059_pc.png"    group-title="litv",CLASSICA 古典樂
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv059
+#EXTINF:-1   tvg-id="Arirang TV"   tvg-name="Arirang TV"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv079_pc.png"    group-title="litv",Arirang TV
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv079
+#EXTINF:-1   tvg-id="達文西頻道"   tvg-name="達文西頻道"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv018_pc.png"    group-title="litv",達文西頻道
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv018
+#EXTINF:-1   tvg-id="ELTV生活英語臺"   tvg-name="ELTV生活英語臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_pc.png"    group-title="litv",ELTV生活英語臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang20
+#EXTINF:-1   tvg-id="靖洋卡通有線"   tvg-name="靖洋卡通有線"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv057_pc.png"    group-title="litv",靖洋卡通有線
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv057
+#EXTINF:-1   tvg-id="靖天卡通臺"   tvg-name="靖天卡通臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv044_pc.png"    group-title="litv",靖天卡通臺
+http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv044
+#EXTINF:-1   tvg-id="龍華卡通臺"   tvg-name="龍華卡通臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_pc.png"    group-title="litv",龍華卡通臺
+http://127.0.0.1:8081/litvapp.php?id=litv-xinchuang01
+#EXTINF:-1   tvg-id="好消息2臺"   tvg-name="好消息2臺"    tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_pc.png"    group-title="litv",好消息2臺
+http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
+
