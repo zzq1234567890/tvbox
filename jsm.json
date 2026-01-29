@@ -2792,13 +2792,20 @@
     ],
     "lives": [
 		  {
-            "name": "YouTubeLive每6小时自动抓取",
+            "name": "YouTubeLive每6小时自动抓取本地",
             "ua": "okhttp/3.0",
             "playerType": 2,
             "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelocal.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
            },
+
+		   {
+            "name": "YouTubeLive每6小时更新官方",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtube.m3u"
+		   },
 		   {
             "name": "df1",
             "ua": "okhttp/3.0",
