@@ -2236,7 +2236,7 @@ http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang18
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang22
 #EXTINF:-1 tvg-id="東森購物1臺" tvg-name="東森購物1臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" group-title="ofiii",東森購物1臺
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv102
-#EXTINF:-1 tvg-id="龍華偶像HD" tvg-name="龍華偶像HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="ofiii",龍華偶像HD
+#EXTINF:-1 tvg-id="龍華偶像臺OTT" tvg-name="龍華偶像臺OTT" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="ofiii",龍華偶像HD
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang12
 #EXTINF:-1 tvg-id="龍華日韓臺" tvg-name="龍華日韓臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="ofiii",龍華日韓臺
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang11
