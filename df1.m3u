@@ -2014,8 +2014,12 @@ http://127.0.0.1:8081/hami.php?id=1877
 http://127.0.0.1:8081/myvideoapp.php?id=06
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="4gtv",民視HD
 http://127.0.0.1:8081/myvideoapp.php?id=09
-#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="4gtv",Lifetime 娛樂頻道
+#EXTINF:-1 tvg-id="愛爾達娛樂臺" tvg-name="愛爾達娛樂臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv070_mobile.png" group-title="4gtv",愛爾達娛樂臺
+
 http://127.0.0.1:8081/elta_proxy.php?id=104
+
+
+
 
 #EXTINF:-1 tvg-id="民視第一臺" tvg-name="民視第一臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="4gtv",民視第一臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv003
