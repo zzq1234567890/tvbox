@@ -1994,7 +1994,7 @@ http://127.0.0.1:8081/hami.php?id=1816
 http://127.0.0.1:8081/hami.php?id=2117
 #EXTINF:-1 tvg-id="ROCKExtreme(免費)" tvg-name="ROCKExtreme(免費)"  group-title="hami",ROCKExtreme(免費)
 http://127.0.0.1:8081/hami.php?id=2061
-#EXTINF:-1 tvg-id="NHK新聞資訊台" tvg-name="NHK新聞資訊台"  group-title="hami",NHK新聞資訊台
+#EXTINF:-1 tvg-id="NHK新聞資訊臺" tvg-name="NHK新聞資訊臺"  group-title="hami",NHK新聞資訊臺
 http://127.0.0.1:8081/hami.php?id=1974
 #EXTINF:-1 tvg-id="民視綜藝臺(免費)" tvg-name="民視綜藝臺(免費)" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="hami",民視綜藝臺(免費)
 http://127.0.0.1:8081/hami.php?id=1611
