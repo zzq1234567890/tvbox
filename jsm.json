@@ -2804,7 +2804,7 @@
             "name": "YouTubeLive每6小时更新官方",
             "ua": "okhttp/3.0",
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtube.m3u"
+            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubeworld.m3u"
 		   },
 		   {
             "name": "df1",
