@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+l#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
 
@@ -2174,7 +2174,7 @@ http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-live122
 #EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="4gtv",MagellanTV頻道 (麥哲倫頻道) 
 http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-live123
 #EXTINF:-1 tvg-id="ROCK EXTREME" tvg-name="ROCK EXTREME" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png" group-title="4gtv",ROCK Extreme搖滾極限頻道
-http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-live124
+http://127.0.0.1:8081/4gtvapp2.php?id=4gtv-live124
 
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="4gtv",公視戲劇
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv042
