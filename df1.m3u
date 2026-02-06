@@ -2230,9 +2230,9 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="4gtv",國會頻道2
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv085
 #EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live087_mobile.png" group-title="4gtv",TVBS綜藝台
-http://127.0.0.1:8081/4gtvapp3.php?id=fast-live199
+http://127.0.0.1:8081/4gtvapp4.php?id=fast-live199
 #EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live088_mobile.png" group-title="4gtv",TVBS台劇台
-http://127.0.0.1:8081/4gtvapp3.php?id=fast-live200
+http://127.0.0.1:8081/4gtvapp4.php?id=fast-live200
 
 #EXTINF:-1 tvg-id="經典電影臺" tvg-name="經典電影臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="4gtv",經典電影臺
 http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-live021
