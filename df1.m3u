@@ -2016,7 +2016,7 @@ http://127.0.0.1:8081/myvideoapp.php?id=06
 http://127.0.0.1:8081/myvideoapp.php?id=09
 #EXTINF:-1 tvg-id="愛爾達娛樂臺" tvg-name="愛爾達娛樂臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv070_mobile.png" group-title="4gtv",愛爾達娛樂臺
 
-http://127.0.0.1:8081/elta_proxy.php?id=104
+#http://127.0.0.1:8081/elta_proxy.php?id=104
 
 
 
@@ -2088,7 +2088,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv13
 #EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="4gtv",三立新聞iNEWS
 http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-live089
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="4gtv",TVBS新聞
-http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-4gtv072
+http://127.0.0.1:8081/4gtvapp3.php?id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="東森財經新聞臺" tvg-name="東森財經新聞臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="4gtv",東森財經新聞臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv153
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="4gtv",中視新聞
@@ -2104,7 +2104,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="SBN全球財經臺" tvg-name="SBN全球財經臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="4gtv",SBN全球財經臺
 http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-live060
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="4gtv",TVBS
-http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-4gtv073
+http://127.0.0.1:8081/4gtvapp3.php?id=4gtv-4gtv073
 #EXTINF:-1 tvg-id="東森購物二臺" tvg-name="東森購物二臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="4gtv",東森購物二臺
 http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-live046
 #EXTINF:-1 tvg-id="民視綜藝臺" tvg-name="民視綜藝臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="4gtv",民視綜藝臺
@@ -2120,7 +2120,7 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv054
 #EXTINF:-1 tvg-id="靖天資訊臺" tvg-name="靖天資訊臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="4gtv",靖天資訊臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv065
 #EXTINF:-1 tvg-id="TVBS歡樂臺" tvg-name="TVBS歡樂臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live068_mobile.png" group-title="4gtv",TVBS歡樂臺
-http://127.0.0.1:8081/4gtvapp1.php?id=4gtv-4gtv068
+http://127.0.0.1:8081/4gtvapp3.php?id=4gtv-4gtv068
 #EXTINF:-1 tvg-id="韓國娛樂臺 KMTV" tvg-name="韓國娛樂臺 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="4gtv",韓國娛樂臺 KMTV
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv016
 #EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="4gtv",ROCK Entertainment
