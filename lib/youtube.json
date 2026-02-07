@@ -427,7 +427,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"Live","v":"live"},
 					{"n":"CNN","v":"live CNN"},
@@ -450,7 +450,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"科技與發展","v":"閱兵 奧運會 航母 航空母艦 潛水艇 核武器 坦克 武器 卫星 火箭 輪船 飛機 飛碟"},
 					{"n":"法治与社会","v":"法治 法制 社会 卖淫 淫秽 污蔑 赌博 毒品 裸聊 诈骗 拐卖 强奸 勒索"},
@@ -578,7 +578,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"Drama","v":"Full Episode drama"},
 					{"n":"US","v":"drama Full Episode US"},
@@ -703,7 +703,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"Drama","v":"Full Episode drama"},
 					{"n":"US","v":"drama Full Episode US"},
@@ -819,7 +819,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"movie","v":"youtube movies Full movie"},
 					{"n":"US","v":"us Full movie movie"},
@@ -931,7 +931,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"Variety","v":"variety"},
 					{"n":"Netflix variety","v":"netflix variety"},
@@ -1078,7 +1078,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"默认","v":"documentary"},
 					{"n":"National Geographic","v":"@natgeo"},
@@ -1319,7 +1319,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"Live","v":"live sports"},
 					{"n":"Games","v":"live games"},
@@ -1388,7 +1388,7 @@
 			},
 			{
 				"key":"tid",
-				"name":"English",
+				"name":"英文",
 				"value":[
 					{"n":"sexy Miss","v":"sexy Miss"},
 					{"n":"Hot sexy Girl","v":"Hot sexy Girl"},
