@@ -1985,7 +1985,7 @@ http://127.0.0.1:8081/hami.php?id=2063
 http://127.0.0.1:8081/hami.php?id=1816
 #EXTINF:-1 tvg-id="Hami體育4臺(免費)" tvg-name="Hami體育4臺(免費)"  group-title="hami",Hami體育4臺(免費)
 http://127.0.0.1:8081/hami.php?id=2117
-#EXTINF:-1 tvg-id="ROCKExtreme(免費)" tvg-name="ROCKExtreme(免費)"  group-title="hami",ROCKExtreme(免費)
+#EXTINF:-1 tvg-id="ROCKXStream" tvg-name="ROCKXStream"  group-title="hami",ROCKExtreme(免費)
 http://127.0.0.1:8081/hami.php?id=2061
 #EXTINF:-1 tvg-id="NHK新聞資訊臺" tvg-name="NHK新聞資訊臺"  group-title="hami",NHK新聞資訊臺
 http://127.0.0.1:8081/hami.php?id=1974
