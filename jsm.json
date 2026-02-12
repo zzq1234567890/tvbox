@@ -1,20 +1,22 @@
 {
     "spider": "./pg.jar",
-    "sites": [    
-		{
-			"key":"玩偶",
-			"name":"👽玩偶哥哥┃4K弹幕",
-			"type":3,
-			"api":"csp_WoGGGuard",
-			"jar": "https://oss4liview.moji.com/thd_file/2026/02/11/9e9558f110d5553b446d539edd1593e1.jpg",
-			"timeout":30,
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":0, 
-			"ext": {
-				"Cloud-drive":"tvfan/Cloud-drive.txt"
-			}
-		},
+    "sites"
+			
+	{
+	"key":"玩偶",
+	"name":"👽玩偶哥哥┃4K弹幕",
+	"type":3,
+	"api":"csp_WoGGGuard",
+	"jar": "https://oss4liview.moji.com/thd_file/2026/02/11/9e9558f110d5553b446d539edd1593e1.jpg",
+	"timeout":30,
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":0, 
+	"ext": {
+		"Cloud-drive":"tvfan/Cloud-drive.txt"
+	
+	}
+},
 
 		
 	
