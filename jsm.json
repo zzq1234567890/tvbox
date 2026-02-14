@@ -3077,6 +3077,7 @@
             "name": "九店",
             "api": "csp_MQiTV",
             "jar": "./fm.jar",
+			  "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
              "ext": [
                      {
                  "name": "唐三",
