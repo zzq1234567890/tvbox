@@ -44,7 +44,7 @@ http://127.0.0.1:8081/youtube.php?v=WAUECPu9EOw
 http://127.0.0.1:8081/tvbs561.php
 #EXTINF:-1   tvg-id="臺視新聞臺"   tvg-name="臺視新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視新聞.png"    group-title="中文新聞",臺視新聞臺
 http://127.0.0.1:8081/taishi.php?id=2
-#EXTINF:-1   tvg-id="臺視"   tvg-name="臺視"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視.png"    group-title="中文新聞",臺視
+#EXTINF:-1   tvg-id="臺視HD"   tvg-name="臺視HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視.png"    group-title="中文新聞",臺視
 http://127.0.0.1:8081/taishi.php?id=1
 #EXTINF:-1   tvg-id="寰宇新聞臺灣臺"   tvg-name="寰宇新聞臺灣臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png"    group-title="中文新聞",寰宇新聞臺灣臺
 http://127.0.0.1:8081/huanyutaiwan.php
