@@ -700,25 +700,7 @@ http://127.0.0.1:8081/cnbcarabic.php
 
 
 
-#EXTINF:-1  group-title="telus测试",Universo East：
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a17518cbf52f3478930511cea7ed1e3a:82b1aaf767958581f82ef9701474162c
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7e155b282f33335ae8d553f169f443c:c3fdcfd5d509f1ed8550d76a525e34e5
-#EXTINF:-1 tvg-logo="" group-title="telus测试",坦桑尼亚的KIX
-https://intlive.azamtvltd.co.tz/live/eds/KIXMovies/DASH/KIXMovies.mpd?hdntl=exp=1768309233~acl=%2f*~data=hdntl~hmac=1d9e20f2bb6c7197118592158293a6ab510ddeeff9d2ae2da547829ed005290b
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/ocn.png" group-title="telus测试",UNIFITV ZEETAMIL
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeTamil)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fe5dc0503a849cbb1966cdd1faa6066:1058f9cebf4d4198b09335ee64cea5dc
@@ -2009,13 +1991,6 @@ http://127.0.0.1:8081/hami.php?id=1877
 http://127.0.0.1:8081/myvideoapp.php?id=06
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="4gtv",民視HD
 http://127.0.0.1:8081/myvideoapp.php?id=09
-#EXTINF:-1 tvg-id="愛爾達娛樂臺" tvg-name="愛爾達娛樂臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv070_mobile.png" group-title="4gtv",愛爾達娛樂臺
-
-#http://127.0.0.1:8081/elta_proxy.php?id=104
-
-
-
-
 #EXTINF:-1 tvg-id="民視第一臺" tvg-name="民視第一臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="4gtv",民視第一臺
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="民視臺灣臺" tvg-name="民視臺灣臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="4gtv",民視臺灣臺
