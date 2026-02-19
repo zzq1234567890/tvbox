@@ -2756,7 +2756,7 @@
     ],
     "lives": [
 
-      {
+         {
             "name": "yang1989",
             "ua": "okhttp",
             "playerType": 2,
@@ -2845,7 +2845,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 		
-{
+       {
            "name": "starhubjuli",
             "ua": "okhttp/3.0",
             "playerType": 2,
@@ -2874,8 +2874,8 @@
             "url": "https://live.catvod.com/tv.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-            },
-	        {
+        },
+	    {
             "name": "jacktv",
             "ua": "okhttp/3.0",
             "playerType": 2,
@@ -2884,7 +2884,7 @@
            "epg":"https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz",
 				###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-             },
+        },
 	    {
             "name": "肥羊马来西亚備用",
             "name": "肥羊马来西亚備用",
@@ -2895,7 +2895,7 @@
 	"epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
           },
-	  {
+	      {
             "name": "央视官网直播",
             "ua": "okhttp/3.0",
             "playerType": 2,
@@ -2903,7 +2903,7 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
          },
-	{
+	     {
              "name": "mqitv",
              "api": "csp_MQiTV",
              "jar": "./fm.jar",
@@ -2925,11 +2925,7 @@
             "playerType": 2,
             "url": "http://ppv.vhr.dpdns.org:8880/ppv-test.php"
         },
-	    {
-            "name": "不知道谁的4gtv",
-            "type": 3,
-            ###"api": "./py/live_beesport.py",
-
+	
 		{
 
             "name": "香港视频 - 安卓",
