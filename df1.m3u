@@ -2032,7 +2032,10 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live030
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="4gtv",達文西頻道
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv018
 #EXTINF:-1 tvg-id="ELTV生活英語臺" tvg-name="ELTV生活英語臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="4gtv",ELTV生活英語臺
-http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live132
+#http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live132
+#EXTINF:-1 tvg-id="ELTV生活英語臺" tvg-name="ELTV生活英語臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="4gtv",ELTV生活英語臺
+http://127.0.0.1:8081/4gtvapp.php?id=litv-xinchung20
+
 #EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="4gtv",Nick Jr. 兒童頻道
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live032
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live105_mobile.png" group-title="4gtv",尼克兒童頻道
@@ -2129,6 +2132,8 @@ http://127.0.0.1:8081/4gtvapp.php?id=4gtv-live201
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv053
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png" group-title="4gtv",Pet Club TV
 http://127.0.0.1:8081/4gtvapp.php?id=4gtv-4gtv110
+
+
 #EXTINF:-1 tvg-id="民視旅遊臺" tvg-name="民視旅遊臺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="4gtv",民視旅遊臺
 http://127.0.0.1:8081/4gtvapp.php?id=litv-ftv07
 #EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="4gtv",滾動力rollor
