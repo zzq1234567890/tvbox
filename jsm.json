@@ -2755,14 +2755,43 @@
         }
     ],
     "lives": [
-		  {
-            "name": "YouTubeLive每6小时自动抓取本地",
-            "ua": "okhttp/3.0",
+
+      {
+            "name": "yang1989",
+            "ua": "okhttp",
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelocal.m3u",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "url": "https://tv.iill.top/m3u/Gather",
+            ###"url": "https://tv-1.iill.top/json/Gather",
+            "epg": "http://epg.iill.top/epg.xml.gz",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
+        },
+		
+		
+			
+	
+        {
+            "name": "mytv-yang1989",
+            "type": 3,
+            ###"api": "./py/live_beesport.py",
+            "url": "https://tv.iill.top/m3u/MyTV",
+           ## "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
+            "epg": "http://epg.iill.top/epg.xml.gz",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+       },
+		
+		
+        {
+            "name": "yang1989体育",
+            "ua": "okhttp",
+            "playerType": 2,
+            "url": "https://tv.iill.top/m3u/Sport",
+            ## "url": "https://tv.iill.top/m3u/MyTV",
+            "epg": "http://epg.iill.top/epg.xml.gz",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
+		
+		
 
 		   {
             "name": "YouTubeLive每6小时更新官方",
@@ -2770,6 +2799,14 @@
             "playerType": 2,
             "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubeworld.m3u"
 		   },
+		{
+            "name": "YouTubeLive每6小时自动抓取本地",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelocal.m3u",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+           },
 		   {
             "name": "df1",
             "ua": "okhttp/3.0",
@@ -2892,37 +2929,7 @@
             "name": "不知道谁的4gtv",
             "type": 3,
             ###"api": "./py/live_beesport.py",
-            "url": "http://220.132.15.209:5008/?type=m3u",
-		    "epg":"https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, 
-        {
-            "name": "mytv-yang1989",
-            "type": 3,
-            ###"api": "./py/live_beesport.py",
-            "url": "https://tv.iill.top/m3u/MyTV",
-           ## "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
-            "epg": "http://epg.iill.top/epg.xml.gz",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-       },
-		{
-            "name": "yang1989",
-            "ua": "okhttp",
-            "playerType": 2,
-            "url": "https://tv.iill.top/m3u/Gather",
-            ###"url": "https://tv-1.iill.top/json/Gather",
-            "epg": "http://epg.iill.top/epg.xml.gz",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "yang1989体育",
-            "ua": "okhttp",
-            "playerType": 2,
-            "url": "https://tv.iill.top/m3u/Sport",
-            ## "url": "https://tv.iill.top/m3u/MyTV",
-            "epg": "http://epg.iill.top/epg.xml.gz",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+
 		{
 
             "name": "香港视频 - 安卓",
