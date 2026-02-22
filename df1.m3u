@@ -952,7 +952,8 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+#KODIPROP:inputstream.adaptive.license_key=98a5480e7cb53fe7922477f76acba548:ad0076dfd98433a75312bb5e4f14525b
+
 #EXTINF:-1  tvg-id="Dubai One" tvg-name="Dubai One"  group-title="mytvsuper",Dubai One
 https://www.elahmad.com/tv/live/shahid_shaka.php?id=dubaione
 
