@@ -1412,16 +1412,16 @@ http://127.0.0.1:8081/mymysuper.php?id=ZJTV
 #EXTINF:-1 tvg-id="深圳衛視國際頻道 (免費)" tvg-name="深圳衛視國際頻道 (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1744699192744305_SZTV.png" group-title="mytvsuper",深圳衛視國際頻道 (免費)
 http://127.0.0.1:8081/mymysuper.php?id=SZTV
 
-#EXTINF:-1 tvg-id="NOW 70s (免費)" tvg-name="NOW 70s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932338100361_NOW7.png" group-title="mytvsuper",NOW 70s (免費)
+#EXTINF:-1 tvg-id="that's 70s (免費)" tvg-name="that's 70s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932338100361_NOW7.png" group-title="mytvsuper",that's 70s (免費)
 http://127.0.0.1:8081/mymysuper.php?id=NOW7
 
-#EXTINF:-1 tvg-id="NOW 80s (免費)" tvg-name="NOW 80s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932390285250_NOW8.png" group-title="mytvsuper",NOW 80s (免費)
+#EXTINF:-1 tvg-id="that's 80s (免費)" tvg-name="that's 80s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932390285250_NOW8.png" group-title="mytvsuper",that's 80s (免費)
 http://127.0.0.1:8081/mymysuper.php?id=NOW8
 
-#EXTINF:-1 tvg-id="NOW ROCK (免費)" tvg-name="NOW ROCK (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932445714549_NOWR.png" group-title="mytvsuper",NOW ROCK (免費)
+#EXTINF:-1 tvg-id="that's Rock (免費)" tvg-name="that's Rock (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932445714549_NOWR.png" group-title="mytvsuper",that's Rock (免費)
 http://127.0.0.1:8081/mymysuper.php?id=NOWR
 
-#EXTINF:-1 tvg-id="NOW 90s00s (免費)" tvg-name="NOW 90s00s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932498130891_NOW9.png" group-title="mytvsuper",NOW 90s00s (免費)
+#EXTINF:-1 tvg-id="that's 90s00s (免費)	" tvg-name="that's 90s00s (免費)" tvg-logo="https://assets.mytvsuper.com/channel/1745932498130891_NOW9.png" group-title="mytvsuper",that's 90s00s (免費)	
 http://127.0.0.1:8081/mymysuper.php?id=NOW9
 
 #EXTINF:-1 tvg-id="Concerto (免費)" tvg-name="Concerto (免費)" tvg-logo="" group-title="mytvsuper",Concerto (免費)
