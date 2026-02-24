@@ -1975,7 +1975,7 @@ http://127.0.0.1:8081/hami.php?id=2062
 http://127.0.0.1:8081/hami.php?id=2063
 #EXTINF:-1 tvg-id="Hami體育1臺(免費)" tvg-name="Hami體育1臺(免費)"  group-title="hami",Hami體育1臺(免費)
 http://127.0.0.1:8081/hami.php?id=1816
-#EXTINF:-1 tvg-id="Hami體育4臺(免費)" tvg-name="Hami體育4臺(免費)"  group-title="hami",Hami體育4臺(免費)
+#EXTINF:-1 tvg-id="Hami體育3臺(免費)" tvg-name="Hami體育3臺(免費)"  group-title="hami",Hami體育3臺(免費)
 http://127.0.0.1:8081/hami.php?id=2117
 #EXTINF:-1 tvg-id="ROCKXStream" tvg-name="ROCKXStream"  group-title="hami",ROCKExtreme(免費)
 http://127.0.0.1:8081/hami.php?id=2061
