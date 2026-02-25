@@ -1004,6 +1004,13 @@ http://127.0.0.1:8081/ssc_sport.php?id=ssc3
 #KODIPROP:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",ssc4
 http://127.0.0.1:8081/ssc_sport.php?id=ssc4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",ssc_5
+http://127.0.0.1:8081/ssc_sport.php?id=ssc_5
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
