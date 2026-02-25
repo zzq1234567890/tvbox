@@ -2940,8 +2940,7 @@
              "api": "csp_MQiTV",
              "jar": "./fm.jar",
 		     "playerType": 2,
-	
-	         "epg":"https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz",
+	         "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
              "ext": [
 
 			   {
