@@ -2861,7 +2861,7 @@
             "name": "Mursor大佬的",
             "ua": "okHttp/Mod-1.5.0.0",
             "playerType": 2,
-            "url": "https://live.ottiptv.cc/iptv.m3u?userid=6047071525&sign=8bbde2f2a172ae1be939bf4989430f7ffa2dae59e455a8ac6947ee3622f8eca45adcc0dbb4bc8bfd0a97d823a06f6d9d4c81ef96570260d8ff27ef604452df14bbd2859ef90f76&auth_token=fb31ae3156a5c1735fe0dd8c60fcce96",
+            "url": "https://live.ottiptv.cc/iptv.m3u?userid=6047071525&sign=7f716ca7193df266861ecb39aee411b975401a00652719eeddb5f3c2ea2f3e2a820755d01389c82a90b0a5c47c20aef9f3868dfd173094301ae2bbf720392be066ce2037055843&auth_token=fb31ae3156a5c1735fe0dd8c60fcce96",
 			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
              },
