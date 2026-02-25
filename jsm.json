@@ -1,25 +1,45 @@
 {
     "spider": "./pg.jar",
     "sites" : [
-			
-	{
-	"key":"玩偶",
-	"name":"👽玩偶哥哥┃4K弹幕",
-	"type":3,
-	"api":"csp_WoGGGuard",
-	"jar": "https://oss4liview.moji.com/thd_file/2026/02/11/9e9558f110d5553b446d539edd1593e1.jpg",
-	"timeout":30,
-	"searchable":1,
-	"quickSearch":1,
-	"changeable":0, 
-	"ext": {
-		"Cloud-drive":"tvfan/Cloud-drive.txt"
-	
-	}
-},
-
-		
-	
+		 {
+      "key": "360资源",
+      "name": "360资源-采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/seaxml/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
     {
       "key": "非凡",
       "name": "非凡",
@@ -59,16 +79,23 @@
         "海外动漫"
       ]
     },
-	  {
-      "key": "wv_ysp",
-      "name": "wv | 央视频",
-	  "jar": "./ysp.jar", 
-	  "timeout":30,
-      "api": "csp_WvSpider",
-      "type": "3",
-      "ext": "./js/央视频.js"
-    },
-    
+	
+	{
+	"key":"玩偶",
+	"name":"👽玩偶哥哥┃4K弹幕",
+	"type":3,
+	"api":"csp_WoGGGuard",
+	"jar": "https://oss4liview.moji.com/thd_file/2026/02/11/9e9558f110d5553b446d539edd1593e1.jpg",
+	"timeout":30,
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":0, 
+	"ext": {
+		"Cloud-drive":"tvfan/Cloud-drive.txt"
+	
+	}
+},
+
 		{
       "key": "py_dbo",
       "name": "独播库py",
@@ -79,6 +106,11 @@
       "filterable": 0
     },
 
+
+	
+   
+	
+    
        {
             "key": "量子",
             "name": "量子",
