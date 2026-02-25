@@ -980,8 +980,8 @@ https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a1785996
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8081/ssc_sportkey.php?id=ssc1
-#EXTINF:-1 tvg-id="mbc 2" tvg-name="mbc 2" tvg-logo="" group-title="mytvsuper",ssc1
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",ssc1
 http://127.0.0.1:8081/ssc_sport.php?id=ssc1
 
 
