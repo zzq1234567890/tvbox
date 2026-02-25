@@ -984,7 +984,12 @@ https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a1785996
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",ssc1
 http://127.0.0.1:8081/ssc_sport.php?id=ssc1
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="mytvsuper",ssc2
+http://127.0.0.1:8081/ssc_sport.php?id=ssc2
 
 
 
