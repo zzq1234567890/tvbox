@@ -1638,8 +1638,7 @@ http://127.0.0.1:8081/mymysuper.php?id=C2
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv13
 http://127.0.0.1:8081/bilibili.php?id=8178490
 
-#EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",cctv13
-http://127.0.0.1:8081/bilibili.php?id=
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",長崎樂隊
 http://127.0.0.1:8081/douyin.php?id=832126481994
 #EXTINF:-1   tvg-id=""   tvg-name=""    group-title="抖音直播",每日經濟新聞24小時
