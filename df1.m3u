@@ -79,10 +79,14 @@ http://127.0.0.1:8081/minshinews.php
 http://127.0.0.1:8081/sanlinewsweb.php
 #EXTINF:-1   tvg-id="三立iNEWS HD"   tvg-name="三立iNEWS HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="中文新聞",三立財經新聞臺
 http://127.0.0.1:8081/sanliinewsweb.php
+#EXTINF:-1   tvg-id="非凡新聞HD"   tvg-name="非凡新聞HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png"    group-title="中文新聞",非凡新聞HD
+http://127.0.0.1:8081/feifannews.php
+#EXTINF:-1   tvg-id="非凡商業臺"   tvg-name="非凡商業臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png"    group-title="中文新聞",非凡商業臺
+http://127.0.0.1:8081/feifanfinance.php
 
 #EXTINF:-1   tvg-id="鏡電視新聞臺"   tvg-name="鏡電視新聞臺"     tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="中文新聞",鏡電視新聞臺
 http://127.0.0.1:8081/jingnews.php
-#EXTINF:-1   tvg-id="4gtv-live050"    tvg-name="新唐人亞太臺"     tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="中文新聞",新唐人亞太臺
+#EXTINF:-1   tvg-id="新唐人亞太臺"    tvg-name="新唐人亞太臺"     tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="中文新聞",新唐人亞太臺
 http://127.0.0.1:8081/xintangrenasia.php
 
 #EXTINF:-1   tvg-id="公共電視臺"   tvg-name="公共電視臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png"  group-title="中文新聞",公共電視臺
@@ -118,8 +122,7 @@ http://127.0.0.1:8081/daai.php?id=2
 http://127.0.0.1:8081/daai.php?id=3
 #EXTINF:-1   tvg-id="大愛電視臺"   tvg-name="大愛電視臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png"    group-title="中文新聞",大愛-1臺灣
 http://127.0.0.1:8081/daai.php?id=4
-#EXTINF:-1   tvg-id="非凡商業臺"   tvg-name="非凡商業臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png"    group-title="中文新聞",非凡商業臺
-http://127.0.0.1:8081/feifanfinance.php
+
 
 #EXTINF:-1   tvg-id="運通財經綜合臺"   tvg-name="運通財經綜合臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png"    group-title="中文新聞",運通財經綜合臺
 http://127.0.0.1:8081/yuntongfinance.php
