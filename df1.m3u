@@ -3368,6 +3368,11 @@ https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=8566a099e2c68ccd9bb4dab4d9b
 
 
 
+#EXTINF:-1   tvg-id="東方財經"   tvg-name="東方財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="地方",東方財經
+http://127.0.0.1:8081/dongfang5g.php?id=dfcj
+#EXTINF:-1   tvg-id="遊戲風雲"   tvg-name="遊戲風雲"    tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"    group-title="地方",遊戲風雲
+
+http://127.0.0.1:8081/dongfang5g.php?id=yxfy 
 
 
 
