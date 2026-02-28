@@ -2849,7 +2849,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
            },
 		   {
-            "name": "df1",
+            "name": "catchplay+",
             "ua": "okhttp/3.0",
             "playerType": 2,
             "url": "https://ha.msbot.dpdns.org/catchplayp.php"
