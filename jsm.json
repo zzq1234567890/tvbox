@@ -2852,8 +2852,26 @@
             "name": "catchplay+",
             "ua": "okhttp/3.0",
             "playerType": 2,
+			   "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
             "url": "https://ha.msbot.dpdns.org/catchplayp.php"
 		   },
+		
+		   {
+            "name": "judy-smart",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+			   "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz",
+            "url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u"
+		   },
+	
+		   {
+            "name": "judy-litv",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+			    "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz",
+            "url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u"
+            },
+		
            {
            "name": "starhub",
             "ua": "okhttp/3.0",
