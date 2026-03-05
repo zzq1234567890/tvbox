@@ -702,6 +702,10 @@ http://127.0.0.1:8081/cnbcarabic.php
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/ocn.png" group-title="telus测试",索尼
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/sony_hd/default/index.mpd
 
 
 
