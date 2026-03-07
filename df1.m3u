@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+﻿#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1   tvg-id="鳳凰資訊"   tvg-name="鳳凰資訊"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"     group-title="中文新聞",鳳凰資訊
 http://127.0.0.1:8081/fenghuangyoutube.php
 #EXTINF:-1   tvg-id="CCTV-4美洲頻道"   tvg-name="CCTV-4美洲頻道"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"    group-title="中文新聞",CCTV-4美洲頻道
@@ -42,6 +42,9 @@ http://127.0.0.1:8081/youtube.php?v=WAUECPu9EOw
 
 #EXTINF:-1   tvg-id=""    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"    tvg-name="TVBS"    group-title="中文新聞",TVBS新聞
 http://127.0.0.1:8081/tvbs561.php
+#EXTINF:-1   tvg-id=""    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"    tvg-name="TVBS"    group-title="中文新聞",TVBS財經
+http://127.0.0.1:8081/tvbsfinace.php
+
 #EXTINF:-1   tvg-id="臺視新聞臺"   tvg-name="臺視新聞臺"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視新聞.png"    group-title="中文新聞",臺視新聞臺
 http://127.0.0.1:8081/taishi.php?id=2
 #EXTINF:-1   tvg-id="臺視HD"   tvg-name="臺視HD"    tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視.png"    group-title="中文新聞",臺視
@@ -414,8 +417,7 @@ http://127.0.0.1:8081/yahoofinace.php
 http://127.0.0.1:8081/scrippsnews.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",schwab
 http://127.0.0.1:8081/schwab.php
-#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",scrippsnews
-http://127.0.0.1:8081/scrippsnews.php
+
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",zeebusiness
 http://127.0.0.1:8081/zeebusiness.php
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",wion
