@@ -31,9 +31,9 @@ http://43.156.8.127:5050/ysp?id=2029797201&pid=600001811&q=fhd
 http://43.156.8.127:5050/ysp?id=2027248901&pid=600001809&q=fhd
 #EXTINF:-1 tvg-name="cctv15" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/2ceee92188ef684efe0d8b90839c4f3ad450d179dc64d59beff417059453af47.png?imageMogr2/format/webp" group-title="央視投屏",cctv15
 http://43.156.8.127:5050/ysp?id=2027249001&pid=600001815&q=fhd
-#EXTINF:-1 tvg-name="cctv16-HD" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/53793fa7bacd3a93ff6dc5d2758418985e1f952a316c335d663b572d8bdcd74d.png?imageMogr2/format/webp" group-title="央視投屏",cctv16-HD
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/53793fa7bacd3a93ff6dc5d2758418985e1f952a316c335d663b572d8bdcd74d.png?imageMogr2/format/webp" group-title="央視投屏",cctv16-HD
 http://43.156.8.127:5050/ysp?id=2027249101&pid=600098637&q=fhd
-#EXTINF:-1 tvg-name="cctv16(4K)" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/53793fa7bacd3a93ff6dc5d2758418985e1f952a316c335d663b572d8bdcd74d.png?imageMogr2/format/webp" group-title="央視投屏",cctv16(4K)
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/53793fa7bacd3a93ff6dc5d2758418985e1f952a316c335d663b572d8bdcd74d.png?imageMogr2/format/webp" group-title="央視投屏",cctv16(4K)
 http://43.156.8.127:5050/ysp?id=2027249301&pid=600099502&q=fhd
 #EXTINF:-1 tvg-name="cctv17" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/ddef563072f8bad2bea5b9e52674cb7b4ed50efb20c26e61994dfbdf05c1e3c0.png?imageMogr2/format/webp" group-title="央視投屏",cctv17
 http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
@@ -41,17 +41,17 @@ http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
 http://43.156.8.127:5050/ysp?id=2029810301&pid=600002264&q=fhd
 #EXTINF:-1 tvg-name="cctv8K" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202503/df543dd2e337be8bf6aa06342d8d790992f7ae47b89403606253436e40409031.png?imageMogr2/format/webp" group-title="央視投屏",cctv8K
 http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/a72dff758ca1c17cd0ecc8cedc11b893d208f409d5e6302faa0e9d298848abc3.png?imageMogr2/format/webp" group-title="央視投屏",CGTN
+#EXTINF:-1 tvg-name="cgtn" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/a72dff758ca1c17cd0ecc8cedc11b893d208f409d5e6302faa0e9d298848abc3.png?imageMogr2/format/webp" group-title="央視投屏",CGTN
 http://43.156.8.127:5050/ysp?id=2024181701&pid=600014550&q=fhd
-#EXTINF:-1 tvg-name="CGTN法語頻道" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/a8d0046a47433d952bf6ed17062deb8bd2184ba9aec0f7781df6bf9487a3ffcf.png?imageMogr2/format/webp" group-title="央視投屏",CGTN法語頻道
+#EXTINF:-1 tvg-name="cgtn法語" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/a8d0046a47433d952bf6ed17062deb8bd2184ba9aec0f7781df6bf9487a3ffcf.png?imageMogr2/format/webp" group-title="央視投屏",CGTN法語頻道
 http://43.156.8.127:5050/ysp?id=2024181801&pid=600084704&q=fhd
-#EXTINF:-1 tvg-name="CGTN俄語頻道" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/bf0a820893cbaf20dd0333e27042e1ef9c8806e5b602b6a8c95af399db0bc77a.png?imageMogr2/format/webp" group-title="央視投屏",CGTN俄語頻道
+#EXTINF:-1 tvg-name="cgtn俄語" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/bf0a820893cbaf20dd0333e27042e1ef9c8806e5b602b6a8c95af399db0bc77a.png?imageMogr2/format/webp" group-title="央視投屏",CGTN俄語頻道
 http://43.156.8.127:5050/ysp?id=2024181901&pid=600084758&q=fhd
-#EXTINF:-1 tvg-name="CGTN阿拉伯語頻道" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/2e44e2aa3e7a1cedf07fd0ae59fe69e86a60a2632660a006e3e9e7397b2d107e.png?imageMogr2/format/webp" group-title="央視投屏",CGTN阿拉伯語頻道
+#EXTINF:-1 tvg-name="cgtn阿拉伯語" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/2e44e2aa3e7a1cedf07fd0ae59fe69e86a60a2632660a006e3e9e7397b2d107e.png?imageMogr2/format/webp" group-title="央視投屏",CGTN阿拉伯語頻道
 http://43.156.8.127:5050/ysp?id=2024182001&pid=600084782&q=fhd
-#EXTINF:-1 tvg-name="CGTN西班牙語頻道" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202309/7c337e3dbe64402ec7e4678a619a4a6d95144e42f35161181ff78e143b7cf67a.png?imageMogr2/format/webp" group-title="央視投屏",CGTN西班牙語頻道
+#EXTINF:-1 tvg-name="cgtn西班牙語" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202309/7c337e3dbe64402ec7e4678a619a4a6d95144e42f35161181ff78e143b7cf67a.png?imageMogr2/format/webp" group-title="央視投屏",CGTN西班牙語頻道
 http://43.156.8.127:5050/ysp?id=2024182101&pid=600084744&q=fhd
-#EXTINF:-1 tvg-name="CGTN外語紀錄頻道" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202309/74d3ac436a7e374879578de1d87a941fbf566d39d5632b027c5097891ed32bd5.png?imageMogr2/format/webp" group-title="央視投屏",CGTN外語紀錄頻道
+#EXTINF:-1 tvg-name="cgtn外語紀錄" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202309/74d3ac436a7e374879578de1d87a941fbf566d39d5632b027c5097891ed32bd5.png?imageMogr2/format/webp" group-title="央視投屏",CGTN外語紀錄頻道
 http://43.156.8.127:5050/ysp?id=2024182301&pid=600084781&q=fhd
 #EXTINF:-1 tvg-name="cctv風雲劇場" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/4d549e53e6d0f632d5a633d1945280797b153e588f919221a07faa869812cc89.png?imageMogr2/format/webp" group-title="央視投屏",cctv風雲劇場頻道
 http://43.156.8.127:5050/ysp?id=2025637103&pid=600099658&q=fhd
@@ -73,7 +73,7 @@ http://43.156.8.127:5050/ysp?id=2026874703&pid=600099659&q=fhd
 http://43.156.8.127:5050/ysp?id=2026874803&pid=600099650&q=fhd
 #EXTINF:-1 tvg-name="cctv文化精品" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/14ac5ce40482cacd3d4b37435222bfe86af2b452a2f04ecbfc1d13d76edd7c57.png?imageMogr2/format/webp" group-title="央視投屏",cctv央視文化精品頻道
 http://43.156.8.127:5050/ysp?id=2026874903&pid=600099653&q=fhd
-#EXTINF:-1 tvg-name="cctv檯球頻道" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/10e14a92478011aa6c3c8562e62127f3b1908e29fcd78e4b2b24b9e6d3ec2fbc.png?imageMogr2/format/webp" group-title="央視投屏",cctv央視檯球頻道
+#EXTINF:-1 tvg-name="cctv檯球" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/10e14a92478011aa6c3c8562e62127f3b1908e29fcd78e4b2b24b9e6d3ec2fbc.png?imageMogr2/format/webp" group-title="央視投屏",cctv央視檯球頻道
 http://43.156.8.127:5050/ysp?id=2026875003&pid=600099652&q=fhd
 #EXTINF:-1 tvg-name="cctv電視指南" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/244d72c0eb1615ed7d51c2f5db5a67f306aa3f58c05bc2d34de3aa7e956dc8c9.png?imageMogr2/format/webp" group-title="央視投屏",cctv電視指南頻道
 http://43.156.8.127:5050/ysp?id=2026875103&pid=600099656&q=fhd
