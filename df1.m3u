@@ -107,7 +107,7 @@ http://43.156.8.127:5050/ysp?id=2024061303&pid=600002481&q=fhd
 http://43.156.8.127:5050/ysp?id=2024061403&pid=600002516&q=fhd
 #EXTINF:-1 tvg-name="河南衛視" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/74925962148a6d31c85808b6cd4e444c2a54bab393d2c5fc85e960b50e22fa86.png?imageMogr2/format/webp" group-title="央視投屏",河南衛視
 http://43.156.8.127:5050/ysp?id=2029797303&pid=600002525&q=fhd
-#EXTINF:-1 tvg-name="福建東南衛視" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/3208fe6564a293c21b711333fb3edb05bb5b406cff840573c9a8d839680a1579.png?imageMogr2/format/webp" group-title="央視投屏",福建東南衛視
+#EXTINF:-1 tvg-name="東南衛視" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/3208fe6564a293c21b711333fb3edb05bb5b406cff840573c9a8d839680a1579.png?imageMogr2/format/webp" group-title="央視投屏",福建東南衛視
 http://43.156.8.127:5050/ysp?id=2024061503&pid=600002484&q=fhd
 #EXTINF:-1 tvg-name="貴州衛視" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/4eb45f4781d33d872af027dc01c941559aab55667dd99cc5c22bef7037807b13.png?imageMogr2/format/webp" group-title="央視投屏",貴州衛視
 http://43.156.8.127:5050/ysp?id=2024061603&pid=600002490&q=fhd
@@ -139,7 +139,7 @@ http://43.156.8.127:5050/ysp?id=2025560803&pid=600190407&q=fhd
 http://43.156.8.127:5050/ysp?id=2025559103&pid=600190406&q=fhd
 #EXTINF:-1 tvg-name="西藏衛視" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202411/37f9668cded5cc19848cfe7dcaf717de4acc47667dde656ba2646aba372eebbe.png?imageMogr2/format/webp" group-title="央視投屏",西藏衛視
 http://43.156.8.127:5050/ysp?id=2025558003&pid=600190403&q=fhd
-#EXTINF:-1 tvg-name="中國教育電視臺1頻道" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202412/2b9301a4795c7f23b7ec7ed651d8c7df002ce8c608168970485999b03d29f783.png?imageMogr2/format/webp" group-title="央視投屏",中國教育電視臺1頻道
+#EXTINF:-1 tvg-name="中國教育電視1臺" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202412/2b9301a4795c7f23b7ec7ed651d8c7df002ce8c608168970485999b03d29f783.png?imageMogr2/format/webp" group-title="央視投屏",中國教育電視臺1頻道
 http://43.156.8.127:5050/ysp?id=2022823801&pid=600171827&q=fhd
 #EXTINF:-1 tvg-name="新疆衛視" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202412/005fd504f809ab28ec8cdd5d34d3886f0611ddefa20ebcc0f3f7dc176ad528c7.png?imageMogr2/format/webp" group-title="央視投屏",新疆衛視
 http://43.156.8.127:5050/ysp?id=2019927403&pid=600152138&q=fhd
