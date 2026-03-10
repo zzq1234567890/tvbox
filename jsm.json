@@ -2856,7 +2856,15 @@
             "url": "https://ha.msbot.dpdns.org/catchplayp.php"
 		   },
 		
-		   {
+		{
+            "name": "南韓電視台",
+            "ua": "okhttp/3.0",
+            "playerType": 2,
+			   "epg": "https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz",
+            "url": "http://swrock.duckdns.org:9981/playlist/channels"
+		},
+		  
+		{
             "name": "judy-smart",
             "ua": "okhttp/3.0",
             "playerType": 2,
