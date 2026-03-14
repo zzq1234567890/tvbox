@@ -2700,6 +2700,9 @@ http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang21
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang03
 #EXTINF:-1 tvg-id="龍華洋片臺" tvg-name="龍華洋片臺" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_tv.png" group-title="ofiii",龍華洋片臺
 http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang02
+#EXTINF:-1 tvg-id="daystar" tvg-name="daystar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-daystar_tv.png" group-title="ofiii",daystar
+http://127.0.0.1:8081/ofiii.php?id=litv-xinchuang02
+
 
 
 #EXTINF:-1 tvg-id="公視金獎臺" tvg-name="公視金獎臺" tvg-logo="https://p-cdnstatic.svc.ofiii.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="ofiii",公視金獎臺
