@@ -317,6 +317,8 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 http://127.0.0.1:8081/foxnewsnow.php?id=1
 #EXTINF:-1      tvg-logo="" tvg-id=" "   tvg-name=" "    group-title="world news",abcnewsyoutube
 http://127.0.0.1:8081/abcnewsyoutube.php
+#EXTINF:-1      tvg-logo="" tvg-id=" "   tvg-name=" "    group-title="world news",cbsnewsyoutube
+http://127.0.0.1:8081/cbsnewsyoutube.php
 
 #EXTINF:-1      tvg-logo="" tvg-id=" "   tvg-name=" "    group-title="world news",上海eye
 
