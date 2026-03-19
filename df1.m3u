@@ -631,6 +631,50 @@ http://127.0.0.1:8081/fox11youtube.php
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",carchaseyoutube
 http://127.0.0.1:8081/carchaseyoutube.php
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",FOX 11 youtube 
+
+http://127.0.0.1:8081/fox11youtube.php
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",carchaseyoutube
+http://127.0.0.1:8081/carchaseyoutube.php
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",firsttv
+http://127.0.0.1:8081/firsttv.php
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",foxnews4youtube
+http://127.0.0.1:8081/foxnews4youtube.php
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",foxnews7youtube
+http://127.0.0.1:8081/foxnews7youtube.php
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",foxnews10youtube
+http://127.0.0.1:8081/foxnews10youtube.php
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",fox5atlantayoutube
+http://127.0.0.1:8081/fox5atlantayoutube.php
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",fox5nyyoutube
+http://127.0.0.1:8081/fox5nyyoutube.php
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",fox6milwaukeeyoutube
+http://127.0.0.1:8081/fox6milwaukeeyoutube.php
+
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",fox9youtube
+http://127.0.0.1:8081/fox9youtube.php
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",Fox10Phoenixyoutube
+http://127.0.0.1:8081/Fox10Phoenixyoutube.php
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",fox13seattleyoutube
+http://127.0.0.1:8081/fox13seattleyoutube.php
+
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",fox19nowyoutube
+http://127.0.0.1:8081/fox19nowyoutube.php
 
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",firsttv
