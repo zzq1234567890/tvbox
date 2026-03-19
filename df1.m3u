@@ -152,6 +152,10 @@ http://127.0.0.1:8081/cctv4.php?id=2
 http://127.0.0.1:8081/cctv4.php?id=1
 #EXTINF:-1   tvg-id="cctv13"   tvg-name="cctv13"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"    group-title="中文新聞",CCTV-13
 http://127.0.0.1:8081/cctv13youtube.php
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="中文新聞",8tvworld
+http://127.0.0.1:8081/8tvworld.php
+
+
 
 #EXTINF:-1   tvg-id="第一財經"   tvg-name="第一財經"    tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"    group-title="中文新聞",第一財經
 http://127.0.0.1:8081/diyicaijing.php
@@ -331,8 +335,11 @@ http://127.0.0.1:8081/cgtnrussia.php
 
 #EXTINF:-1   tvg-id="cgtn"   tvg-name="cgtn"    tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"     group-title="world news",CCTV NEWS法語
 http://127.0.0.1:8081/cgtnfrance.php
-#EXTINF:-1      tvg-logo="" tvg-id="cgtn"   tvg-name="cgtn"    group-title="world news",cgtn
-http://127.0.0.1:8081/cgtn.php
+#EXTINF:-1      tvg-logo="" tvg-id="cgtn"   tvg-name="cgtn"    group-title="world news",cgtn youtube
+http://127.0.0.1:8081/cgtnyoutube.php
+#EXTINF:-1      tvg-logo="" tvg-id="cgtn"   tvg-name="cgtn"    group-title="world news",cgtneuropeyoutube
+http://127.0.0.1:8081/cgtneuropeyoutube.php
+
 #EXTINF:-1   tvg-id="TaiwanPlus"   tvg-name="TaiwanPlus"    tvg-logo=""    group-title="world news",taiwanplus
 http://127.0.0.1:8081/taiwanplus1.php
 
