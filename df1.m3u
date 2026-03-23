@@ -831,6 +831,8 @@ http://127.0.0.1:8081/kbsworld.php
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",K-POP
 http://127.0.0.1:8081/kpop1.php
+#EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",K-POP2
+http://127.0.0.1:8081/kpop2.php
 
 #EXTINF:-1   tvg-id=""   tvg-name=""    tvg-logo=""    group-title="world news",kbsworldpop
 http://127.0.0.1:8081/kbsworldpop.php
