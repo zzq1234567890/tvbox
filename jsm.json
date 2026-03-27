@@ -1,5 +1,5 @@
 {
-    "spider": "./pro0327.jar",
+    "spider": "./pg.jar",
     "sites" : [
 		 {
       "key": "360资源",
